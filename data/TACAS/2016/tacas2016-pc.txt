@@ -1,0 +1,33 @@
+P:Marsha Chechik
+P:Jean-François Raskin
+Parosh Aziz Abdulla
+Aws  Albarghouthji
+Christel Baier
+Nathalie Bertrand
+Patricia Bouyer
+Radu Calinescu
+Franck Cassez
+Pavol Cerny
+Krishnendu Chatterjee
+Rance Cleaveland
+Javier Esparza
+Pierre Ganty
+Radu Grosu
+Orna Grumberg
+Arie Gurfinkel
+Holger Hermanns
+Zachary Kincaid
+Daniel Kroening
+Akash Lal
+Kim G. Larsen
+Rupak Majumdar
+Tiziana Margaria
+Nicolas Markey
+Roland Meyer
+Corina Pasareanu
+Nir Piterman
+Grigore Rosu
+Natasha Sharygina
+Bernhard Steffen
+Cesare Tinelli
+Lenore Zuck

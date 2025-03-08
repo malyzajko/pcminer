@@ -1,0 +1,38 @@
+P:Jan Friso Groote
+P:Kim G. Larsen
+Pedro R. D'Argenio
+Christel Baier
+Dirk Beyer
+Armin Biere
+Valentina Castiglioni
+Alessandro Cimatti
+Rance Cleaveland
+Yuxin Deng
+Carla Ferreira
+Goran Frehse
+Susanne Graf
+Orna Grumberg
+Klaus Havelund
+Holger Hermanns
+Peter Höfner
+Hossein Hojjat
+Falk Howar
+David N. Jansen
+Marcin Jurdziński
+Joost-Pieter Katoen
+Jeroen Keiren
+Sophia Knight
+Laura Kovács
+Jan Kretińsky
+Alfons Laarman
+Xinxin Liu
+Mieke Massink
+Radu Mateescu
+Jun Pang
+David Parker
+Jaco van de Pol
+Natasha Sharygina
+Jan Strejček
+Antti Valmari
+Björn Victor
+Sarah Winkler

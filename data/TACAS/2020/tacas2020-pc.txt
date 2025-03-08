@@ -1,0 +1,33 @@
+P:Armin Biere
+P:David Parker
+Christel Baier
+Ezio Bartocci
+Dirk Beyer
+Jasmin Blanchette
+Roderick Bloem
+Hana Chockler
+Alessandro Cimatti
+Rance Cleaveland
+Martin Fränzle
+Goran Frehse
+Orna Grumberg
+Holger Hermanns
+Benjamin Kiesl
+Laura Kovács
+Jan Kretińsky
+Kim G. Larsen
+Wenchao Li
+Kenneth McMillan
+Aina Niemetz
+Gethin Norman
+Corina Pasareanu
+Nir Piterman
+Kristin Y. Rozier
+Philpp Rümmer
+Natasha Sharygina
+Bernhard Steffen
+Jan Strejček
+Michael Tautschnig
+Jaco van de Pol
+Tom van Dijk
+Christoph Wintersteiger

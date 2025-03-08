@@ -1,0 +1,58 @@
+P:Bill W. Roscoe
+P:Jan Peleska
+Bernhard K. Airchernig
+Joerg Brauer
+Ana Cavalcanti
+Frank De Boer
+John S. Fitzgerald
+Martin Fraenzle
+Vijay Ganesh
+Diego Garbervetsky
+Dimitria Giannakopoulou
+Thomas Gibson-Robinson
+Stefania Gnesi
+Anne E. Haxthausen
+Ian J. Hayes
+Constance Heitmeyer
+Jozef Hooman
+Laura Humphrey
+Fuyuki Ishikawa
+Einar Broch Johnson
+Cliff Jones
+Joost-Pieter Katoen
+Gerwin Klein
+Laura Kovacs
+Peter Gorm Larsen
+Yves Ledru
+Rustan Leino
+Elizabeth Leonard
+Martin Leucker
+Michael Leuschel
+Zhiming Liu
+Tiziana Margaria
+Mieke Massink
+Annabelle McIver
+Dominique Mery
+Mohammad Reza Mousavi
+Peter Müller
+Colin O’Halloran
+Jose Oliveira
+Olaf Owe
+Sam Owre
+Alexandre Petrenko
+Anna Philippou
+Elvinia Riccobene
+Grigore Rosu
+Augusto Sampaio
+Gerardo Schneider
+Natasha Sharygina
+Ana Sokolova
+Jun Sun
+Stefano Tonetta
+Farn Wang
+Heike Wehrheim
+Michael Whalen
+Jim Woodcock
+Hüsnü Yenigün
+Fatiha Zaidi
+Gianluigi Zavattaro

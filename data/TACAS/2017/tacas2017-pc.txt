@@ -1,0 +1,37 @@
+P:Axel Legay
+P:Tiziana Margaria
+Gilles Barthe
+Dirk Beyer
+Armin Biere
+Radu Calinescu
+Franck Cassez
+Swarat Chaudhuri
+Alessandro Cimatti
+Rance Cleaveland
+Byron Cook
+Cezara Drăgoi
+Cindy Eisner
+Martin Fränzle
+Sicun Gao
+Susanne Graf
+Orna Grumberg
+Klaus Havelund
+Holger Hermanns
+Falk Howar
+Thomas Jensen
+Jan Křetínský
+Kim Guldstrand Larsen
+Salvatore La Torre
+P. Madhusudan
+Pasquale Malacaria
+Darko Marinov
+Leonardo de Moura
+Dejan Nickovic
+David Parker
+Charles Pecheur
+Kristin Rozier
+Natasha Sharygina
+Bernhard Steffen
+Stavros Tripakis
+Jaco van de Pol
+Thomas Wies

@@ -1,0 +1,41 @@
+P:Dirk Beyer
+P:Marieke Huisman
+Wolfgang Ahrendt
+Dirk Beyer
+Armin Biere
+Lubos Brim
+Franck Cassez
+Alessandro Cimatti
+Rance Cleaveland
+Goran Frehse
+Jan Friso Groote
+Gudmund Grov
+Orna Grumberg
+Arie Gurfinkel
+Klaus Havelund
+Matthias Heizmann
+Holger Hermanns
+Falk Howar
+Marieke Huisman
+Laura Kovács
+Jan Kretinsky
+Kim G. Larsen
+Salvatore La Torre
+Axel Legay
+Yang Liu
+Rupak Majumdar
+Tiziana Margaria
+Rosemary Monahan
+David Parker
+Corina Pasareanu
+Alexander K. Petrenko
+Zvonimir Rakamaric
+Kristin Yvonne Rozier
+Natasha Sharygina
+Stephen F. Siegel
+Stavros Tripakis
+Frits Vaandrager
+Tomáš Vojnar
+Heike Wehrheim
+Thomas Wies
+Damien Zufferey

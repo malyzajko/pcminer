@@ -1,0 +1,61 @@
+P:Jonathan Aldrich
+P:Guido Salvaneschi
+Alvin Cheung
+Eva Darulova
+Jenna DiVincenzo (Wise)
+Werner Dietl
+Jens Dietrich
+Sebastian Erdweg
+Patrick Eugster
+Carla Ferreira
+Simon J. Gay
+Jeremy Gibbons
+Elisa Gonzalez Boix
+Arjun Guha
+Suresh Jagannathan
+Ranjit Jhala
+Yu David Liu
+Mira Mezini
+Heather Miller
+Ragnar Mogk
+David Naumann
+Marianna Rapoport
+António Ravara
+Manuel Serrano
+Peter Thiemann
+Emilio Tuosto
+Elena Zucca
+E:Karine Even-Mendoza
+E:Raphaël Monat
+E:Mehran Alidoost Nia
+E:Yuandao Cai
+E:Kevin Cheang
+E:Yanju Chen
+E:Aoyang Fang
+E:Sophie Fortz
+E:Dongjie He
+E:Jingmei Hu
+E:Xuejing Huang
+E:Kadiray Karakaya
+E:David Kelly
+E:Seongmin Lee
+E:Chengwei Liu
+E:Danielle Marshall
+E:Ashish Mishra
+E:Austin Mordahl
+E:Malte Mues
+E:Luca Olivieri
+E:Kai-Oliver Prott
+E:Yuxin Qiu
+E:Baber Rehman
+E:David Richter
+E:Neea Rusch
+E:Simmo Saan
+E:Larisa Safina
+E:Arindam Sharma
+E:Rob Sison
+E:Yaozhu Sun
+E:Yudai Tanabe
+E:Shiwei Weng
+E:Yi Zhou
+

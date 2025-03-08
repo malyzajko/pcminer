@@ -1,0 +1,99 @@
+P:Annabelle McIver
+P:Maurice ter Beek
+Bernhard Aichernig
+Elvira Albert
+María Alpuente
+Dalal Alrajeh
+Mário S. Alvim
+June Andronick
+Christel Baier
+Luís Barbosa
+Gilles Barthe
+Marcello Bersani
+Gustavo Betarte
+Nikolaj Bjørner
+Frank de Boer
+Sergiy Bogomolov
+Julien Brunel
+Néstor Cataño
+Ana Cavalcanti
+Antonio Cerone
+Marsha Chechik
+David Chemouil
+Alessandro Cimatti
+Alcino Cunha
+Michael Dierkes
+Alessandro Fantechi
+Carla Ferreira
+João Ferreira
+José Fiadeiro
+Marcelo Frias
+Fatemeh Ghassemi
+Silvia Ghilezan
+Stefania Gnesi
+Osman Hasan
+Klaus Havelund
+Anne Haxthausen
+Ian Hayes
+Constance Heitmeyer
+Jane Hillston
+Thai Son Hoang
+Zhenjiang Hu
+Dang Van Hung
+Reiner Hähnle
+Atsushi Igarashi
+Suman Jana
+Ali Jaoua
+Einar Broch Johnsen
+Joost-Pieter Katoen
+Laura Kovács
+Alberto Lluch Lafuente
+Axel Legay
+Gabriele Lenzini
+Yang Liu
+Malte Lochau
+Michele Loreti
+Anastasia Mavridou
+Hernán Melgratti
+Sun Meng
+Rosemary Monahan
+Olfa Mosbahi
+Mohammad Mousavi
+César Muñoz
+Dominique Méry
+Tim Nelson
+Gethin Norman
+Colin O’Halloran
+Federico Olmedo
+Gordon Pace
+Jan Peleska
+Marielle Petit-Doche
+Alexandre Petrenko
+Anna Philippou
+Jorge Sousa Pinto
+André Platzer
+Jaco van de Pol
+Tahiry Rabehaja
+Steve Reeves
+Matteo Rossi
+Augusto Sampaio
+Gerardo Schneider
+Daniel Schwartz-Narbonne
+Natasha Sharygina
+Nikolay Shilov
+Ana Sokolova
+Marielle Stoelinga
+Jun Sun
+Helen Treharne
+Elena Troubitsyna
+Tarmo Uustalu
+Andrea Vandin
+R. Venkatesh
+Erik de Vink
+Willem Visser
+Farn Wang
+Bruce Watson
+Tim Willemse
+Kirsten Winter
+Jim Woodcock
+Lijun Zhang

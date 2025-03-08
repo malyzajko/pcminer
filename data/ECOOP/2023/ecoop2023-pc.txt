@@ -1,0 +1,108 @@
+P:Karim Ali
+P:Guido Salvaneschi
+Ben Hermann
+Cyrus Omar
+Emma Söderberg
+Gul Agha
+Riyadh Baghdadi
+Shigeru Chiba
+Andrew Craik
+Wolfgang De Meuter
+Alastair F. Donaldson
+Simon J. Gay
+Jeremy Gibbons
+Tony Hosking
+Atsushi Igarashi
+Mikel Luján
+Ana Milanova
+Anders Møller
+Klaus Ostermann
+Tomas Petricek
+Alex Potanin
+Tom Schrijvers
+Manuel Serrano
+Thodoris Sotiropoulos
+Peter Thiemann
+Emma Tosch
+Vasco T. Vasconcelos
+Yuepeng Wang
+Stefan Wehr
+Tobias Wrigstad
+Chengyu Zhang
+E:Hernán Ponce de León
+E:Stefan Winter
+E:Mehran Alidoost Nia
+E:Daniel Baier
+E:Dorra Ben Khalifa
+E:Utpal Bora
+E:Oliver Bračevac
+E:Alexandra Bugariu
+E:Stefanos Chaliasos
+E:Yanju Chen
+E:Jianyi Cheng
+E:Michele Chiari
+E:Vikraman Choudhury
+E:Hoang-Hai Dang
+E:Stefania Dumbrava
+E:Emanuele D’Osualdo
+E:Karine Even-Mendoza
+E:William Hallahan
+E:Yann Herklotz
+E:Xiaowen Hu
+E:David Justo
+E:Eduard Kamburjan
+E:Martin Kruliš
+E:Ton Chanh Le
+E:Shaohua Li
+E:Yao Li
+E:Zhengyang Liu
+E:Kristóf Marussy
+E:Johannes Mey
+E:Raphaël Monat
+E:Austin Mordahl
+E:Fabian Muehlboeck
+E:Tomoki Nakamaru
+E:Krishna Narasimhan
+E:Adrian Palacios
+E:Mário Pereira
+E:Baber Rehman
+E:Neea Rusch
+E:John Sarracino
+E:Michael Schröder
+E:Lars Schütze
+E:Jiasi Shen
+E:Qingkai Shi
+E:Somesh Singh
+E:Mallku Soldevila
+E:Martin Spiessl
+E:Quentin Stiévenart
+E:Alix Trieu
+E:Michele Tucci
+E:Wenxi Wang
+E:Yuke Wang
+E:Zheng Wang
+E:Pascal Weisenburger
+E:Aslan Askarov
+E:Marco Autili
+E:Richard Bubel
+E:Sebastian Burckhardt
+E:Tej Chajed
+E:Maria Eichlseder
+E:Simon Fowler
+E:Lorenzo Gheri
+E:Sung-Shik Jongmans
+E:Sven Keidel
+E:Daniel Lehmann
+E:Jean-Marie Madiot
+E:Alessandro Margara
+E:Changwoo Min
+E:Ragnar Mogk
+E:Emerson Murphy-Hill
+E:Arthur Oliveira Vale
+E:Mike Rainey
+E:David Richter
+E:Philipp Schuster
+E:Marc Shapiro
+E:Laura Titolo
+E:Heike Wehrheim
+
