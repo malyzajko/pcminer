@@ -7,12 +7,12 @@ Sam Lindley
 Heather Miller
 J. Garrett Morris
 Henrik Nilsson
-François Pottier
+Fran&ccedil;ois Pottier
 Alejandro Russo
 Ilya Sergey
 Michael Sperber
 Wouter Swierstra
-Éric Tanter
+&Eacute;ric Tanter
 Katsuhiro Ueno
 Niki Vazou
 Jeremy Yallop
