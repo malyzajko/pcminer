@@ -1,4 +1,4 @@
-P:André Platzer
+P:Andr&eacute; Platzer
 P:Kristin-Yvonne Rozier
 Erika Abraham
 Wolfgang Ahrendt
@@ -8,7 +8,7 @@ Gilles Barthe
 Dirk Beyer
 Pablo Castro
 Ana Cavalcanti
-Milan Česka
+Milan &#268;eska
 Marsha Chechik
 Alessandro Cimatti
 Alexandre Duret-Lutz
@@ -17,8 +17,8 @@ Orna Grumberg
 Arie Gurfinkel
 Anne E. Haxthausen
 Marieke Huisman
-Reiner Hähnle
-Peter Höfner
+Reiner H&auml;hnle
+Peter H&ouml;fner
 Einar Broch Johnsen
 Joost-Pieter Katoen
 Nikolai Kosmatov
@@ -36,7 +36,7 @@ Cesar Munoz
 Aniello Murano
 Violet Ka I Pun
 Zvonimir Rakamaric
-Philipp Rümmer
+Philipp R&uuml;mmer
 Cristina Seceleanu
 Natasha Sharygina
 Jun Sun

@@ -8,14 +8,14 @@ Annette Bieniusa
 Steve Blackburn
 Sandrine Blazy
 Edwin Brady
-Lubomír Bulej
+Lubom&iacute;r Bulej
 Shigeru Chiba
 Albert Cohen
 Eva Darulova
 Wolfgang De Meuter
 Derek Dreyer
 Sophia Drossopoulou
-Stéphane Ducasse
+St&eacute;phane Ducasse
 Sebastian Erdweg
 Simon Fowler
 Juliana Franco
@@ -27,9 +27,9 @@ Philipp Haller
 Robert Hirschfeld
 Tony Hosking
 Doug Lea
-Mikel Luján
+Mikel Luj&aacute;n
 Magnus Madsen
-Anders Møller
+Anders M&oslash;ller
 James Noble
 Martin Odersky
 Bruno C. d. S. Oliveira
@@ -50,7 +50,7 @@ Tobias Wrigstad
 Tao Xie
 Jingling Xue
 Elena Zucca
-E:Quentin Stiévenart
+E:Quentin Sti&eacute;venart
 E:Chaitanya S. Koparkar
 E:Krishna Narasimhan
 E:Somesh Singh
@@ -58,32 +58,32 @@ E:Junwen Yang
 E:Luigi De Simone
 E:Matthieu Jimenez
 E:Tomoki Nakamaru
-E:Jonathan Immanuel Brachthäuser
-E:Oliver Bračevac
+E:Jonathan Immanuel Brachth&auml;user
+E:Oliver Bra&#269;evac
 E:Jonas Norlinder
 E:Dongjie He
 E:Chengyu Zhang
-E:Martin Kruliš
+E:Martin Kruli&scaron;
 E:Vlastimil Dort
 E:Vojtech Horky
 E:Wenjia Ye
 E:Baber Rehman
-E:Kristóf Marussy
+E:Krist&oacute;f Marussy
 E:Paulette Koronkevich
 E:Hoang-Hai Dang
 E:Anish Tondwalkar
 E:Ifaz Kabir
 E:Alex Renda
 E:Michele Chiari
-E:Olivier Flückiger
+E:Olivier Fl&uuml;ckiger
 E:Petr Maj
 E:Chiao Hsieh
 E:Markus Raab
-E:Michael Schröder
+E:Michael Schr&ouml;der
 E:David Justo
-E:Lars Schütze
+E:Lars Sch&uuml;tze
 E:Pascal Weisenburger
-E:Emanuele D’Osualdo
+E:Emanuele D&rsquo;Osualdo
 E:Steven Keuchel
 E:Jie An
 E:Sven Keidel

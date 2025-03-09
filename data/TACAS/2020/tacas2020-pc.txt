@@ -8,13 +8,13 @@ Roderick Bloem
 Hana Chockler
 Alessandro Cimatti
 Rance Cleaveland
-Martin Fränzle
+Martin Fr&auml;nzle
 Goran Frehse
 Orna Grumberg
 Holger Hermanns
 Benjamin Kiesl
-Laura Kovács
-Jan Kretińsky
+Laura Kov&aacute;cs
+Jan Kreti&#324;sky
 Kim G. Larsen
 Wenchao Li
 Kenneth McMillan
@@ -23,10 +23,10 @@ Gethin Norman
 Corina Pasareanu
 Nir Piterman
 Kristin Y. Rozier
-Philpp Rümmer
+Philpp R&uuml;mmer
 Natasha Sharygina
 Bernhard Steffen
-Jan Strejček
+Jan Strej&#269;ek
 Michael Tautschnig
 Jaco van de Pol
 Tom van Dijk

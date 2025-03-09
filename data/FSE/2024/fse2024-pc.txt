@@ -18,7 +18,7 @@ Bowen Xu
 Chao Wang
 Chengnian Sun
 Chetan Arora
-Christian Kästner
+Christian K&auml;stner
 Christian Bird
 Christine Julien
 Christoph Treude
@@ -78,7 +78,7 @@ Juan Zhai
 Julia Lawall
 Junjie Wang
 Junjie Chen
-Jürgen Cito
+J&uuml;rgen Cito
 Karthik Vaidhyanathan
 Lars Grunske
 Leandro Minku
@@ -90,7 +90,7 @@ Lingfeng Bao
 Lingxiao Jiang
 Luciano Baresi
 Manish Motwani
-Marcel Böhme
+Marcel B&ouml;hme
 Marco Mobilio
 Mark Harman
 Marsha Chechik
@@ -133,7 +133,7 @@ Sarfraz Khurshid
 Sarra Habchi
 Sebastian Baltes
 Sebastian Proksch
-Sébastien Bardin
+S&eacute;bastien Bardin
 Shahar Maoz
 Shanshan Li
 Shaowei Wang
@@ -148,7 +148,7 @@ Tao Zhang
 Tao Xie
 Tevfik Bultan
 Thibaud Lutellier
-Thomas Thüm
+Thomas Th&uuml;m
 Tim Menzies
 Tingting Yu
 Tse-Hsun (Peter) Chen

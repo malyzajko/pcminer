@@ -17,7 +17,7 @@ Azadeh  Farzan
 B.  Srivathsan
 Benjamin  Kaminski
 Bernd Finkbeiner
-Bettina Könighofer
+Bettina K&ouml;nighofer
 Bor-Yuh Evan
 Borzoo  Bonakdarpour
 Caterina  Urban
@@ -25,8 +25,8 @@ Cezara  Dragoi
 Christopher Hahn
 Constantin  Enea
 Corina  Pasareanu
-Deepak  D’Souza
-Dejan Jovanovi´c
+Deepak  D&rsquo;Souza
+Dejan Jovanovi&acute;c
 Elizabeth Polgreen
 Elvira  Albert
 Erika Abraham
@@ -51,7 +51,7 @@ Kuldeep Meel
 Kumar Madhukar
 Laura Kovacs
 Liana Hadarean
-Loris D’Antoni
+Loris D'Antoni
 Mathias Preiner
 Matthias  Heizmann
 Mihaela Sighireanu
@@ -59,7 +59,7 @@ Mirco Giacobbe
 Naijun  Zhan
 Natasha Sharygina
 Nathalie  Sznajder
-Nikolaj Bj&oslash;rner
+Nikolaj Bj&amp;oslash;rner
 Ning  Luo
 Oded  Padon
 Orna  Grumberg

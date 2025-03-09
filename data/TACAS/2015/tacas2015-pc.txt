@@ -1,6 +1,6 @@
 P:Christel Baier
 P:Cesare Tinelli
-Erika Ábrahám
+Erika &Aacute;brah&aacute;m
 Nathalie Bertrand
 Armin Biere
 Patricia Bouyer-Decitre
@@ -15,8 +15,8 @@ Orna Grumberg
 Arie Gurfinkel
 Klaus Havelund
 Holger Hermanns
-Reiner Hähnle
-Daniel Kröning
+Reiner H&auml;hnle
+Daniel Kr&ouml;ning
 Kim G. Larsen
 Tiziana Margaria-Steffen
 Ken McMillan
@@ -24,8 +24,8 @@ Tobias Nipkow
 David Parker
 Corina Pasareanu
 Ruzica Piskac
-Jean-François Raskin
-Philip Rümmer
+Jean-Fran&ccedil;ois Raskin
+Philip R&uuml;mmer
 Sriram Sankaranarayanan
 Scott Smolka
 Bernhard Steffen

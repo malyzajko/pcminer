@@ -35,7 +35,7 @@ E:Jeroen Ketema
 E:Ana Milanova
 E:Jessica Paquette
 E:Gregor Richards
-E:Philipp Ruemmer
+E:Philipp R&uuml;mmer
 E:Alexander J. Summers
 E:Martin Vechev
 E:John Wickerson

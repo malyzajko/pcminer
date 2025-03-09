@@ -5,7 +5,7 @@ Haniel Barbosa
 Ezio Bartocci
 Dirk Beyer
 Armin Biere
-Nikolaj Bjørner
+Nikolaj Bj&oslash;rner
 Roderick Bloem
 Ahmed Bouajjani
 Hana Chockler
@@ -15,7 +15,7 @@ Javier Esparza
 Chuchu Fan
 Grigory Fedyukovich
 Bernd Finkbeiner
-Martin Fränzle
+Martin Fr&auml;nzle
 Khalil Ghorbal
 Laure Gonnord
 Orna Grumberg
@@ -24,15 +24,15 @@ Arie Gurfinkel
 Ranjit Jhala
 Laura Kovacs
 Alexander Kulikov
-Bettina Könighofer
+Bettina K&ouml;nighofer
 Wenchao Li
 Sergio Mover
-Peter Müller
+Peter M&uuml;ller
 Kedar Namjoshi
 Aina Niemetz
 Corina Pasareanu
 Nir Piterman
-Philipp Ruemmer
+Philipp R&uuml;mmer
 Krishna S.
 Cesar Sanchez
 Sharon Shoham

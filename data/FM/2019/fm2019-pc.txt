@@ -2,20 +2,20 @@ P:Annabelle McIver
 P:Maurice ter Beek
 Bernhard Aichernig
 Elvira Albert
-María Alpuente
+Mar&iacute;a Alpuente
 Dalal Alrajeh
-Mário S. Alvim
+M&aacute;rio S. Alvim
 June Andronick
 Christel Baier
-Luís Barbosa
+Lu&iacute;s Barbosa
 Gilles Barthe
 Marcello Bersani
 Gustavo Betarte
-Nikolaj Bjørner
+Nikolaj Bj&oslash;rner
 Frank de Boer
 Sergiy Bogomolov
 Julien Brunel
-Néstor Cataño
+N&eacute;stor Cata&ntilde;o
 Ana Cavalcanti
 Antonio Cerone
 Marsha Chechik
@@ -25,8 +25,8 @@ Alcino Cunha
 Michael Dierkes
 Alessandro Fantechi
 Carla Ferreira
-João Ferreira
-José Fiadeiro
+Jo&atilde;o Ferreira
+Jos&eacute; Fiadeiro
 Marcelo Frias
 Fatemeh Ghassemi
 Silvia Ghilezan
@@ -40,13 +40,13 @@ Jane Hillston
 Thai Son Hoang
 Zhenjiang Hu
 Dang Van Hung
-Reiner Hähnle
+Reiner H&auml;hnle
 Atsushi Igarashi
 Suman Jana
 Ali Jaoua
 Einar Broch Johnsen
 Joost-Pieter Katoen
-Laura Kovács
+Laura Kov&aacute;cs
 Alberto Lluch Lafuente
 Axel Legay
 Gabriele Lenzini
@@ -54,16 +54,16 @@ Yang Liu
 Malte Lochau
 Michele Loreti
 Anastasia Mavridou
-Hernán Melgratti
+Hern&aacute;n Melgratti
 Sun Meng
 Rosemary Monahan
 Olfa Mosbahi
 Mohammad Mousavi
-César Muñoz
-Dominique Méry
+C&eacute;sar Mu&ntilde;oz
+Dominique M&eacute;ry
 Tim Nelson
 Gethin Norman
-Colin O’Halloran
+Colin O&rsquo;Halloran
 Federico Olmedo
 Gordon Pace
 Jan Peleska
@@ -71,7 +71,7 @@ Marielle Petit-Doche
 Alexandre Petrenko
 Anna Philippou
 Jorge Sousa Pinto
-André Platzer
+Andr&eacute; Platzer
 Jaco van de Pol
 Tahiry Rabehaja
 Steve Reeves

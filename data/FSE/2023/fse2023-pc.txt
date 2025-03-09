@@ -10,7 +10,7 @@ Titus Barik
 Gabriele Bavota
 Jonathan Bell
 Antonia Bertolino
-Árpád Beszédes
+&Aacute;rp&aacute;d Besz&eacute;des
 Barbora Buhnova
 Nimrod Busany
 Joanna C. S. Santos
@@ -22,7 +22,7 @@ Marsha Chechik
 Junjie Chen
 Sen Chen
 Tao Chen
-Jürgen Cito
+J&uuml;rgen Cito
 Anthony Cleve
 Maxime Cordy
 Vittorio Cortellessa
@@ -51,11 +51,11 @@ Gail Kaiser
 Foutse Khomh
 Moonzoo Kim
 Yunho Kim
-Jacob Krüger
+Jacob Kr&uuml;ger
 Li Li
 Yi Li
 Yun Lin
-Mario Linares-Vásquez
+Mario Linares-V&aacute;squez
 Hui Liu
 David Lo
 Yiling Lou
@@ -75,7 +75,7 @@ George Mathew
 Shane McIntosh
 Sergey Mechtaev
 Dimitris Mitropoulos
-André N. Meyer
+Andr&eacute; N. Meyer
 Sarah Nadi
 Phuong T. Nguyen
 Ali Ouni
@@ -90,7 +90,7 @@ Michael Pradel
 Mukul Prasad
 Akond Rahman
 Ajitha Rajan
-Gema Rodríguez-Pérez
+Gema Rodr&iacute;guez-P&eacute;rez
 Nico Rosner
 Sukyoung Ryu
 Anita Sarma
@@ -101,7 +101,7 @@ David C. Shepherd
 Lin Shi
 Jocelyn Simmonds
 Ting Su
-Mary Sánchez-Gordón
+Mary S&aacute;nchez-Gord&oacute;n
 Shin Hwei Tan
 Xin Tan
 Yiming Tang

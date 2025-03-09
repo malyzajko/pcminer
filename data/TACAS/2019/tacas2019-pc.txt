@@ -1,4 +1,4 @@
-P:Tomáš Vojnar
+P:Tom&aacute;&scaron; Vojnar
 P:Lijun Zhang
 Parosh Aziz Abdulla
 Armin Biere
@@ -24,12 +24,12 @@ Salvatore La Torre
 Kim Guldstrand Larsen
 Anabelle McIver
 Roland Meyer
-Sebastian A. Mödersheim
+Sebastian A. M&ouml;dersheim
 David Parker
 Corina Pasareanu
 Sanjit Seshia
 Bernhard Steffen
-Jan Strejček
+Jan Strej&#269;ek
 Zhendong Su
 Meng Sun
 Michael Tautschnig

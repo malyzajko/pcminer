@@ -39,7 +39,7 @@ C.-H. Luke Ong
 Pavel Panchekha
 Matthew J. Parkinson
 Fran&ccedil;ois Pottier
-Philipp Ruemmer
+Philipp R&uuml;mmer
 Chung-chieh Shan
 Filip Sieczkowski
 Bas Spitters

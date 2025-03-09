@@ -29,18 +29,18 @@ Thorsten Berger
 Antonia Bertolino
 Ivan Beschastnikh
 Christian Bird
-Tegawendé F. Bissyandé
+Tegawend&eacute; F. Bissyand&eacute;
 Eric Bodden
 Markus Borg
 Barbora Buhnova
-Marcel Böhme
+Marcel B&ouml;hme
 Cristian Cadar
 Satish Chandra
 Oscar Chaparro
 Sudipta Chattopadhyay
 Marsha Chechik
 Chunyang Chen
-Jürgen Cito
+J&uuml;rgen Cito
 James Clause
 Jane Cleland-Huang
 Anthony Cleve
@@ -89,7 +89,7 @@ Ciera Jaspan
 Lingxiao Jiang
 Brittany Johnson
 Christine Julien
-René Just
+Ren&eacute; Just
 Yasutaka Kamei
 Katja Kevic
 Foutse Khomh
@@ -118,7 +118,7 @@ Ruben Martins
 Anastasia Mavridou
 Shane McIntosh
 Collin McMillan
-Nenad Medvidović
+Nenad Medvidovi&#263;
 Tim Menzies
 Ana Milanova
 Leandro Minku
@@ -126,8 +126,8 @@ Breno Miranda
 Audris Mockus
 Kevin Moran
 Emerson Murphy-Hill
-Patrick Mäder
-Hausi Müller
+Patrick M&auml;der
+Hausi M&uuml;ller
 Shiva Nejati
 Yannic Noller
 Nicole Novielli
@@ -149,7 +149,7 @@ Sebastian Proksch
 Peter Rigby
 Romain Robbes
 Gregorio Robles
-Gema Rodríguez-Pérez
+Gema Rodr&iacute;guez-P&eacute;rez
 Julia Rubin
 Barbara Russo
 Daniel Russo
@@ -174,7 +174,7 @@ Amjed Tahir
 Lin Tan
 Kla Tantithamthavorn
 Patanamon Thongtanunam
-Thomas Thüm
+Thomas Th&uuml;m
 Paolo Tonella
 Christoph Treude
 Michele Tufano
@@ -187,7 +187,7 @@ Shaowei Wang
 Shiyi Wei
 Martin White
 Jon Whittle
-Andrzej Wąsowski
+Andrzej W&#261;sowski
 Tao Xie
 Yingfei Xiong
 Jason Minhui Xue

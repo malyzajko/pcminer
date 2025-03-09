@@ -1,9 +1,9 @@
-P:Nikolaj Bjørner
+P:Nikolaj Bj&oslash;rner
 P:Frank de Boer
-Erika Ábrahám
+Erika &Aacute;brah&aacute;m
 Bernhard K. Aichernig
 Gilles Barthe
-Nikolaj Bjørner
+Nikolaj Bj&oslash;rner
 Marcello Bonsangue
 Michael Butler
 Andrew Butterfield
@@ -21,7 +21,7 @@ Stefania Gnesi
 Ganesh Gopalakrishnan
 Orna Grumberg
 Arie Gurfinkel
-Reiner Hähnle
+Reiner H&auml;hnle
 Klaus Havelund
 Anne E. Haxthausen
 Ian J. Hayes
@@ -37,12 +37,12 @@ Rustan Leino
 Martin Leucker
 Shaoying Liu
 Tom Maibaum
-Dominique Méry
-Peter Müller
-César Muñoz
+Dominique M&eacute;ry
+Peter M&uuml;ller
+C&eacute;sar Mu&ntilde;oz
 David Naumann
 Tobias Nipkow
-José Oliveira
+Jos&eacute; Oliveira
 Olaf Owe
 Sam Owre
 Andrei Paskevich

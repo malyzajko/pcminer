@@ -3,20 +3,20 @@ P:Marsha Chechik
 Dalal Alrajeh
 Luis Soares Barbosa
 Ezio Bartocci
-Nikolaj Bjørner
+Nikolaj Bj&oslash;rner
 Sandrine Blazy
 Borzoo Bonakdarpour
 Pablo Castro
 Ana Cavalcanti
-Milan Česka
+Milan &#268;eska
 Nancy Day
 Bernd Fischer
 Arie Gurfinkel
-Reiner Hähnle
+Reiner H&auml;hnle
 Ichiro Hasuo
 Keijo Heljanko
 Holger Hermanns
-Peter Höfner
+Peter H&ouml;fner
 Marieke Huisman
 Adrian Francalanza
 Einar Broch Johnsen

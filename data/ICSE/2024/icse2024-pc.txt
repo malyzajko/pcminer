@@ -4,7 +4,7 @@ Claire Le Goues
 Baishakhi Ray
 Andy Zaidman
 Dongmei Zhang
-Marcel Böhme
+Marcel B&ouml;hme
 Miryung Kim
 Christoph Treude
 Jane Cleland-Huang
@@ -12,7 +12,7 @@ Cristian Cadar
 Shin Yoo
 Antonia Bertolino
 Foutse Khomh
-Silvia Abrahão
+Silvia Abrah&atilde;o
 Aldeida Aleti
 Saba Alimadadi
 Dalal Alrajeh
@@ -23,7 +23,7 @@ Maria Teresa Baldassarre
 Sebastian Baltes
 Muneera Bano
 Ann Barcomb
-Sébastien Bardin
+S&eacute;bastien Bardin
 Gabriele Bavota
 Andrew Begel
 Jonathan Bell
@@ -37,7 +37,7 @@ Elizabeth Bjarnason
 Eric Bodden
 Amiangshu Bosu
 Tevfik Bultan
-José Pablo Cambronero
+Jos&eacute; Pablo Cambronero
 Bruno Cartaxo
 Gemma Catolino
 Sang Kil Cha
@@ -47,7 +47,7 @@ Preetha Chatterjee
 Chunyang Chen
 Junjie Chen
 Shing-Chi Cheung
-Jürgen Cito
+J&uuml;rgen Cito
 Eleni Constantinou
 Tayana Conte
 Andreea Costea
@@ -62,14 +62,14 @@ Prem Devanbu
 Tapajit Dey
 Massimiliano Di Penta
 Oscar Dieste
-Işıl Dillig
+I&#351;&#305;l Dillig
 Naipeng Dong
 Zhen Dong
 Matthew B Dwyer
 Sarah Fakhoury
 Lingling Fan
 Robert Feldt
-João F. Ferreira
+Jo&atilde;o F. Ferreira
 Antonio Filieri
 Bernd Fischer
 Erik Fredericks
@@ -79,7 +79,7 @@ Smita Ghaisas
 Sepideh Ghanavati
 Alex Groce
 Lars Grunske
-Wesley Assunção
+Wesley Assun&ccedil;&atilde;o
 Muhammad Ali Gulzar
 Jin L.C. Guo
 Irit Hadar
@@ -102,7 +102,7 @@ Jiajun Jiang
 Lingxiao Jiang
 Yu Jiang
 Zhi Jin
-Christian Kästner
+Christian K&auml;stner
 Gail Kaiser
 Aditya Kanade
 Eunsuk Kang
@@ -125,7 +125,7 @@ Yi Li
 Grischa Liebel
 Bin Lin
 Qingwei Lin
-Johan Linåker
+Johan Lin&aring;ker
 Yang Liu
 David Lo
 Tamara Lopez
@@ -136,7 +136,7 @@ Walid Maalej
 Sonal Mahajan
 Rupak Majumdar
 Sam Malek
-Mika Mäntylä
+Mika M&auml;ntyl&auml;
 Shahar Maoz
 Sabrina Marczak
 Paul Marinescu
@@ -147,7 +147,7 @@ Sergey Mechtaev
 Alexandra Mendes
 Na Meng
 Raffaela Mirandola
-Anders Møller
+Anders M&oslash;ller
 Sarah Nadi
 Shiva Nejati
 Nan Niu
@@ -162,7 +162,7 @@ Birgit Penzenstadler
 Cecile Peraire
 Justyna Petke
 Thuan Pham
-Luís Pina
+Lu&iacute;s Pina
 Gustavo Pinto
 Martin Pinzger
 Mukul Prasad
@@ -177,9 +177,9 @@ David Redmiles
 Manuel Rigger
 Martin P. Robillard
 Gregorio Robles
-Gema Rodríguez-Pérez
+Gema Rodr&iacute;guez-P&eacute;rez
 Julia Rubin
-Cindy Rubio-González
+Cindy Rubio-Gonz&aacute;lez
 Sukyoung Ryu
 Joanna C. S. Santos
 Anita Sarma
@@ -197,7 +197,7 @@ Jeongju Sohn
 Diomidis Spinellis
 Paola Spoletini
 Sruti Srinivasa Ragavan
-Jan-Philipp Steghöfer
+Jan-Philipp Stegh&ouml;fer
 Igor Steinmacher
 Klaas-Jan Stol
 Kathryn Stolee
@@ -207,7 +207,7 @@ Charles Sutton
 Shin Hwei Tan
 Patanamon Thongtanunam
 Jason Tsay
-Eray Tüzün
+Eray T&uuml;z&uuml;n
 Rachel Tzoref-Brill
 Michael Vierhauser
 Thomas Vogel

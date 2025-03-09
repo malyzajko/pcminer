@@ -2,7 +2,7 @@ P:Karim Ali
 P:Guido Salvaneschi
 Ben Hermann
 Cyrus Omar
-Emma Söderberg
+Emma S&ouml;derberg
 Gul Agha
 Riyadh Baghdadi
 Shigeru Chiba
@@ -13,9 +13,9 @@ Simon J. Gay
 Jeremy Gibbons
 Tony Hosking
 Atsushi Igarashi
-Mikel Luján
+Mikel Luj&aacute;n
 Ana Milanova
-Anders Møller
+Anders M&oslash;ller
 Klaus Ostermann
 Tomas Petricek
 Alex Potanin
@@ -29,13 +29,13 @@ Yuepeng Wang
 Stefan Wehr
 Tobias Wrigstad
 Chengyu Zhang
-E:Hernán Ponce de León
+E:Hern&aacute;n Ponce de Le&oacute;n
 E:Stefan Winter
 E:Mehran Alidoost Nia
 E:Daniel Baier
 E:Dorra Ben Khalifa
 E:Utpal Bora
-E:Oliver Bračevac
+E:Oliver Bra&#269;evac
 E:Alexandra Bugariu
 E:Stefanos Chaliasos
 E:Yanju Chen
@@ -44,38 +44,38 @@ E:Michele Chiari
 E:Vikraman Choudhury
 E:Hoang-Hai Dang
 E:Stefania Dumbrava
-E:Emanuele D’Osualdo
+E:Emanuele D&rsquo;Osualdo
 E:Karine Even-Mendoza
 E:William Hallahan
 E:Yann Herklotz
 E:Xiaowen Hu
 E:David Justo
 E:Eduard Kamburjan
-E:Martin Kruliš
+E:Martin Kruli&scaron;
 E:Ton Chanh Le
 E:Shaohua Li
 E:Yao Li
 E:Zhengyang Liu
-E:Kristóf Marussy
+E:Krist&oacute;f Marussy
 E:Johannes Mey
-E:Raphaël Monat
+E:Rapha&euml;l Monat
 E:Austin Mordahl
 E:Fabian Muehlboeck
 E:Tomoki Nakamaru
 E:Krishna Narasimhan
 E:Adrian Palacios
-E:Mário Pereira
+E:M&aacute;rio Pereira
 E:Baber Rehman
 E:Neea Rusch
 E:John Sarracino
-E:Michael Schröder
-E:Lars Schütze
+E:Michael Schr&ouml;der
+E:Lars Sch&uuml;tze
 E:Jiasi Shen
 E:Qingkai Shi
 E:Somesh Singh
 E:Mallku Soldevila
 E:Martin Spiessl
-E:Quentin Stiévenart
+E:Quentin Sti&eacute;venart
 E:Alix Trieu
 E:Michele Tucci
 E:Wenxi Wang

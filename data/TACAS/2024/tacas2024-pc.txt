@@ -1,12 +1,12 @@
 P:Bernd Finkbeiner
-P:Laura Kovács
+P:Laura Kov&aacute;cs
 Alessandro Abate
-Erika Ábrahám
+Erika &Aacute;brah&aacute;m
 S Akshay
 Elvira Albert
 Leonardo Alt
 Suguman Bansal
-Nikolaj Bjørner
+Nikolaj Bj&oslash;rner
 Ahmed Boujanni
 Claudia Cauli
 Rance Cleaveland
@@ -26,7 +26,7 @@ Sebastian Junges
 Amir Kafshdar Goharshady
 Benjamin Kaminski
 Guy Katz
-Laura Kovács
+Laura Kov&aacute;cs
 Gergely Kovasznai
 Tamas Kozsik
 Anthony Lin

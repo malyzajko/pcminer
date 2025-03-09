@@ -5,7 +5,7 @@ Erika Abraham
 Bernhard Aichernig
 Myla Archer
 Gilles Barthe
-Nikolaj Bjørner
+Nikolaj Bj&oslash;rner
 Michael Butler
 Andrew Butterfield
 Ana Cavalcanti
@@ -41,10 +41,10 @@ Zhiming Liu
 Tiziana Margaria
 Mieke Massink
 Annabelle McIver
-Dominique Méry
-Peter Müller
+Dominique M&eacute;ry
+Peter M&uuml;ller
 Tobias Nipkow
-José Oliveira
+Jos&eacute; Oliveira
 Olaf Owe
 Sam Owre
 Anna Philippou

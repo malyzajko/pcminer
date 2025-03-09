@@ -34,8 +34,8 @@ Mieke Massink
 Annabelle McIver
 Dominique Mery
 Mohammad Reza Mousavi
-Peter Müller
-Colin O’Halloran
+Peter M&uuml;ller
+Colin O&rsquo;Halloran
 Jose Oliveira
 Olaf Owe
 Sam Owre
@@ -53,6 +53,6 @@ Farn Wang
 Heike Wehrheim
 Michael Whalen
 Jim Woodcock
-Hüsnü Yenigün
+H&uuml;sn&uuml; Yenig&uuml;n
 Fatiha Zaidi
 Gianluigi Zavattaro

@@ -10,7 +10,7 @@ Hridesh Rajan
 Yuanfang Cai
 Xiangyu Zhang
 Federica Sarro
-Marcel Böhme
+Marcel B&ouml;hme
 Gabin An
 Fabio Palomba
 Giang Nguyen
@@ -65,7 +65,7 @@ Xiangkun Jia
 Kexin Pei
 Yibiao Yang
 Guangdong Bai
-Wesley Assunção
+Wesley Assun&ccedil;&atilde;o
 Yapeng Ye
 Antonio Mastropaolo
 Yan Lei
@@ -142,7 +142,7 @@ Jonathan Bell
 Shangwen Wang
 Claudio Di Sipio
 Juan Zhai
-José Pablo Cambronero
+Jos&eacute; Pablo Cambronero
 Bowen Xu
 Nan Niu
 Tianyi Zhang
@@ -167,12 +167,12 @@ Chengnian Sun
 Wensheng Dou
 Simos Gerasimou
 Dimitris Mitropoulos
-Michaël Marcozzi
+Micha&euml;l Marcozzi
 Tim Menzies
 Jingbo Wang
 Shaohua Wang
 Ming Fan
-Eray Tüzün
+Eray T&uuml;z&uuml;n
 Alberto Bacchelli
 Maria Kechagia
 Darko Marinov
@@ -196,12 +196,12 @@ David Lo
 Jan Oliver Ringert
 Xin Tan
 Gregory J. Duck
-Jacob Krüger
+Jacob Kr&uuml;ger
 Ajitha Rajan
 Lina Marsso
 Mahmoud Alfadel
 Zhi Jin
-Lola Burgueño
+Lola Burgue&ntilde;o
 Nikita Mehrotra
 Wenxi Wang
 Lina Ochoa
@@ -209,6 +209,6 @@ Antinisca Di Marco
 Dalal Alrajeh
 Cuiyun Gao
 Alessandra Gorla
-Renáta Hodován
+Ren&aacute;ta Hodov&aacute;n
 Kevin Jesse
 Ziqi Zhang

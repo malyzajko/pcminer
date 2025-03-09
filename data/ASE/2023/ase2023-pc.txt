@@ -24,7 +24,7 @@ Domenico Bianculli
 Sumon Biswas
 Kevin Borgolte
 Timofey Bryksin
-Gül Calikli
+G&uuml;l Calikli
 Aysu Betin Can
 Saikat Chakraborty
 Sudipta Chattopadhyay
@@ -45,7 +45,7 @@ Zhen Dong
 Robert Dyer
 Sarah Fakhoury
 Paolo Falcarin
-Jean-Rémy Falleri
+Jean-R&eacute;my Falleri
 Lingling Fan
 Chunrong Fang
 Mattia Fazzini
@@ -56,7 +56,7 @@ Alessio Gambi
 Cuiyun Gao
 Alessandra Gorla
 Lars Grunske
-Paul Grünbacher
+Paul Gr&uuml;nbacher
 Giovani Guizzo
 Robert J. Hall
 Tracy Hall
@@ -133,14 +133,14 @@ Denys Poshyvanyk
 Michael Pradel
 Sebastian Proksch
 Hridesh Rajan
-Aurora Ramírez
+Aurora Ram&iacute;rez
 Baishakhi Ray
 Jan Oliver Ringert
-José Raúl Romero
+Jos&eacute; Ra&uacute;l Romero
 Nico Rosner
 Mehrdad Sabetzadeh
 Houari Sahraoui
-Martin Schäf
+Martin Sch&auml;f
 Mojtaba Shahin
 Weiyi Shang
 Elena Sherman
@@ -149,13 +149,13 @@ Donghwan Shin
 Ezekiel Soremekun
 Andrea Stocco
 Tim Storer
-Daniel Strüber
-Ştefan Stănciulescu
+Daniel Str&uuml;ber
+&#350;tefan St&#259;nciulescu
 Ting Su
 Yulei Sui
 Jun Sun
 Zeyu Sun
-Emma Söderberg
+Emma S&ouml;derberg
 Amjed Tahir
 Yiming Tang
 Yutian Tang
