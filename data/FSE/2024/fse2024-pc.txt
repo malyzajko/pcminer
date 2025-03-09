@@ -1,0 +1,191 @@
+P:Lin Tan
+P:David Lo
+Abhik Roychoudhury
+Ajitha Rajan
+Alessandra Gorla
+Alexander Serebrenik
+Alexandre Bartel
+Amiangshu Bosu
+Amjed Tahir
+Andreas Vogelsang
+Andrian Marcus
+August Shi
+Ayushi Rastogi
+Baishakhi Ray
+Bernd Fischer
+Bonita Sharif
+Bowen Xu
+Chao Wang
+Chengnian Sun
+Chetan Arora
+Christian Kästner
+Christian Bird
+Christine Julien
+Christoph Treude
+Chunyang Chen
+Cristian Cadar
+Cristian-Alexandru Staicu
+Cuiyun Gao
+Dalal Alrajeh
+Dan Hao
+Daniela Damian
+Dario Di Nucci
+Davide Falessi
+Denys Poshyvanyk
+Dietmar Pfahl
+Diptikalyan Saha
+Dirk Beyer
+Domenico Bianculli
+DongGyun Han
+Dongmei Zhang
+Earl T. Barr
+Eduardo Santana de Almeida
+Elisabeta di Nitto
+Emerson Murphy-Hill
+Fabio Palomba
+Fatemeh Hendijani Fard
+Fernanda Madeiral
+Fiorella Zampetti
+Foutse Khomh
+Francisco Servant
+Gabriele Bavota
+Gail Kaiser
+Georgios Gousios
+Giovanni Denaro
+Giuseppe Scanniello
+Gordon Fraser
+Guangdong Bai
+Gunel Jahangirova
+Guowei Yang
+Haipeng Cai
+Hana Chockler
+Hao Zhong
+Haoyu Wang
+Hongyu Zhang
+Iftekhar Ahmed
+Jacopo Soldani
+Jeff Huang
+Jennifer Horkoff
+Jiajun Jiang
+Jianjun Zhao
+Jiayuan Zhou
+Jie M. Zhang
+Jingyue Li
+Jinqiu Yang
+Jooyong Yi
+Joshua Garcia
+Juan Zhai
+Julia Lawall
+Junjie Wang
+Junjie Chen
+Jürgen Cito
+Karthik Vaidhyanathan
+Lars Grunske
+Leandro Minku
+Leonardo Mariani
+Li Li
+Lin Shi
+Lin Chen
+Lingfeng Bao
+Lingxiao Jiang
+Luciano Baresi
+Manish Motwani
+Marcel Böhme
+Marco Mobilio
+Mark Harman
+Marsha Chechik
+Martin Pinzger
+Mary Lou Soffa
+Masud Rahman
+Mauro Pezze
+Michael Lyu
+Mike Papadakis
+Ming Wen
+Mohamed Wiem Mkaouer
+Mohammad Wardat
+Muhammad Ali Gulzar
+Mukul Prasad
+Nan Niu
+Nicole Novielli
+Peter Schrammel
+Philipp Leitner
+Phuong T. Nguyen
+Pinjia He
+Preetha Chatterjee
+Prem Devanbu
+Qi Xin
+Qian Zhang
+Qinghua Lu
+Qirun Zhang
+Rachel Tzoref-Brill
+Rahul Gopinath
+Rahul Purandare
+Raula Gaikovina Kula
+Reyhaneh Jabbarvand
+Ridwan Salihin Shariffdeen
+Romain Robbes
+Rongxin Wu
+Ronnie de Souza Santos
+Rui Abreu
+Saeid Tizpaz-Niari
+Sandro Morasca
+Sarfraz Khurshid
+Sarra Habchi
+Sebastian Baltes
+Sebastian Proksch
+Sébastien Bardin
+Shahar Maoz
+Shanshan Li
+Shaowei Wang
+Shin Hwei Tan
+Shing-Chi Cheung
+Shuai Wang
+Sudipta Chattopadhyay
+Sven Apel
+T.H. Tse
+Tao Yue
+Tao Zhang
+Tao Xie
+Tevfik Bultan
+Thibaud Lutellier
+Thomas Thüm
+Tim Menzies
+Tingting Yu
+Tse-Hsun (Peter) Chen
+Hung Viet Pham
+Vincent J. Hellendoorn
+Vincenzo Riccio
+Vladimir Kovalenko
+Wei Yang
+Wei Le
+Weihang Wang
+Wenwen Wang
+Willem Visser
+Wing Lam
+Wing-Kwong Chan
+Xi Zheng
+Xiangyu Zhang
+Xiaobing Sun
+Xiaoyin Wang
+Xiaoyuan Xie
+Xiapu Luo
+Xin Tan
+Xin Xia
+Xin Peng
+Xiwei (Sherry) Xu
+Xusheng Xiao
+Yan Xiao
+Yi Li
+Yijun Yu
+Yiling Lou
+Ying Zou
+Yu Jiang
+Yuan Tian
+Yuanfang Cai
+Yue Yu
+Yun Lin
+Yuriy Brun
+Yutian Tang
+Zhiqiang Zuo
+Zhiyuan Wan
+Zhoulai Fu
