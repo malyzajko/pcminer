@@ -1,0 +1,209 @@
+P:Lori Pollock
+P:Massimiliano Di Penta
+David Lo
+Denys Poshyvanyk
+Myra Cohen
+Corina S. Pasareanu
+Abhik Roychoudhury
+Walid Maalej
+Margaret-Anne Storey
+Andrian Marcus
+Bram Adams
+Kelly Blincoe
+Rui Abreu
+Iftekhar Ahmed
+Dalal Alrajeh
+Giuliano Antoniol
+Venera Arnaoudova
+Paris Avgeriou
+Alberto Bacchelli
+Sebastian Baltes
+Muneera Bano
+Luciano Baresi
+Olga Baysal
+Christoph Becker
+Nelly Bencomo
+Amel Bennaceur
+Alexandre Bergel
+Thorsten Berger
+Antonia Bertolino
+Ivan Beschastnikh
+Christian Bird
+Tegawendé F. Bissyandé
+Eric Bodden
+Markus Borg
+Barbora Buhnova
+Marcel Böhme
+Cristian Cadar
+Satish Chandra
+Oscar Chaparro
+Sudipta Chattopadhyay
+Marsha Chechik
+Chunyang Chen
+Jürgen Cito
+James Clause
+Jane Cleland-Huang
+Anthony Cleve
+Xuan Bach D. Le
+Kostadin Damevski
+Cristina David
+Prem Devanbu
+Tapajit Dey
+Davide Di Ruscio
+Andrea Di Sorbo
+Yvonne Dittrich
+Naipeng Dong
+Matthew B Dwyer
+Alexander Egyed
+Sebastian Elbaum
+Sigrid Eldh
+Emelie Engstrom
+Neil Ernst
+Fabian Fagerholm
+Rudolf Ferenc
+Alessio Ferrari
+Antonio Filieri
+Bernd Fischer
+Xavier Franch
+Gordon Fraser
+Thomas Fritz
+Juan Pablo Galeotti
+Alessandro Garcia
+Joshua Garcia
+Alejandra Garrido
+Rohit Gheyi
+Milos Gligoric
+Jesus M. Gonzalez-Barahona
+Divya Gopinath
+Jin L.C. Guo
+Irit Hadar
+Mark Harman
+Fei He
+Reid Holmes
+Jennifer Horkoff
+Marianne Huchard
+Paola Inverardi
+Reyhaneh Jabbarvand
+Gunel Jahangirova
+Ciera Jaspan
+Lingxiao Jiang
+Brittany Johnson
+Christine Julien
+René Just
+Yasutaka Kamei
+Katja Kevic
+Foutse Khomh
+Dongsun Kim
+Raghavan Komondoor
+Raula Gaikovina Kula
+Thomas LaToza
+Julia Lawall
+Claire Le Goues
+Wei Le
+Seok-Won Lee
+Philipp Leitner
+Valentina Lenarduzzi
+Li Li
+Ming Li
+Yi Li
+Yiling Lou
+Jie M. Zhang
+Lei Ma
+Sonal Mahajan
+Ivano Malavolta
+Jonathan I. Maletic
+Shahar Maoz
+Leonardo Mariani
+Ruben Martins
+Anastasia Mavridou
+Shane McIntosh
+Collin McMillan
+Nenad Medvidović
+Tim Menzies
+Ana Milanova
+Leandro Minku
+Breno Miranda
+Audris Mockus
+Kevin Moran
+Emerson Murphy-Hill
+Patrick Mäder
+Hausi Müller
+Shiva Nejati
+Yannic Noller
+Nicole Novielli
+Alessandro Orso
+Paige Rodeghero
+Fabio Palomba
+Sebastiano Panichella
+Mike Papadakis
+Elise Paradis
+Chris Parnin
+Liliana Pasquale
+Xin Peng
+Justyna Petke
+Roberto Pietrantuono
+Gustavo Pinto
+Michael Pradel
+Rafael Prikladnicki
+Sebastian Proksch
+Peter Rigby
+Romain Robbes
+Gregorio Robles
+Gema Rodríguez-Pérez
+Julia Rubin
+Barbara Russo
+Daniel Russo
+Caitlin Sadowski
+Federica Sarro
+Giuseppe Scanniello
+Ina Schaefer
+Carolyn Seaman
+Francisco Servant
+Bonita Sharif
+David C. Shepherd
+Elena Sherman
+Janet Siegmund
+Mary Lou Soffa
+Diomidis Spinellis
+Paola Spoletini
+Igor Steinmacher
+Klaas-Jan Stol
+Kevin Sullivan
+Youcheng Sun
+Amjed Tahir
+Lin Tan
+Kla Tantithamthavorn
+Patanamon Thongtanunam
+Thomas Thüm
+Paolo Tonella
+Christoph Treude
+Michele Tufano
+Rachel Tzoref-Brill
+Marco Tulio Valente
+Bogdan Vasilescu
+Andreas Vogelsang
+Chao Wang
+Shaowei Wang
+Shiyi Wei
+Martin White
+Jon Whittle
+Andrzej Wąsowski
+Tao Xie
+Yingfei Xiong
+Jason Minhui Xue
+Guowei Yang
+Wei Yang
+Tingting Yu
+Tao Yue
+Andy Zaidman
+Fiorella Zampetti
+Andreas Zeller
+Jian Zhang
+Lingming Zhang
+Xiangyu Zhang
+Hao Zhong
+Minghui Zhou
+Ying Zou
+Marcelo d'Amorim
+Andre van der Hoek
+
