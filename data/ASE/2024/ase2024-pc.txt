@@ -1,0 +1,214 @@
+Baishakhi Ray
+Minghui Zhou
+Lingming Zhang
+Michael Pradel
+Claire Le Goues
+Andrew Begel
+Cristian Cadar
+Dan Hao
+Hridesh Rajan
+Yuanfang Cai
+Xiangyu Zhang
+Federica Sarro
+Marcel Böhme
+Gabin An
+Fabio Palomba
+Giang Nguyen
+Mike Papadakis
+Lars Grunske
+Jiawei Liu
+Kai Gao
+Shaowei Wang
+Kevin Borgolte
+Haoyu Wang
+Manas Paldhe
+Xusheng Xiao
+Junjie Chen
+Martin Nowack
+Max Hort
+Christoph Treude
+Shaukat Ali
+Seongmin Lee
+Chanchal K. Roy
+Shibbir Ahmed
+Yu Jiang
+Simin Chen
+Pinjia He
+Simon Chu
+Shuvendu K. Lahiri
+Yanjie Jiang
+Chao Wang
+Yinlin Deng
+Sam Malek
+Wei Yang
+Zishuo Ding
+Ding Li
+Michele Tufano
+John Grundy
+Xiao Liu
+Chunyang Chen
+Chang Xu
+Rangeet Pan
+Van-Hoang Le
+Shiyi Wei
+Ming Wen
+Yiming Tang
+Qingkai Shi
+Zhenpeng Chen
+Zhuo Zhang
+Xing Hu
+Ridwan Salihin Shariffdeen
+Ronnie de Souza Santos
+Yangruibo Ding
+Shrikanth N C
+Xiangkun Jia
+Kexin Pei
+Yibiao Yang
+Guangdong Bai
+Wesley Assunção
+Yapeng Ye
+Antonio Mastropaolo
+Yan Lei
+Tao Zhang
+Xianhao Jin
+Jianmei Guo
+Chunrong Fang
+Shanshan Li
+Yi Liu
+Ruoxi Sun
+Saikat Dutta
+Paolo Arcaini
+Jinhao Dong
+Saeid Tizpaz-Niari
+Xiaoyu Sun
+Ting Su
+Xiao Chen
+Andreea Vescan
+Zeyu Sun
+Amin Milani Fard
+Lingfeng Bao
+Yepang Liu
+Meng Yan
+Preethu Rose Anish
+Smita Ghaisas
+Dongjie He
+Zhenbang Chen
+Jiri Gesi
+Abhishek Tiwari
+Claudio Menghi
+NIANYU LI
+Mengshi Zhang
+Jian Zhang
+Iftekhar Ahmed
+Zhongxin Liu
+Kaifeng Huang
+Vincenzo Riccio
+Yue Yu
+Sergey Mechtaev
+Michele Pasqua
+Zhen Dong
+Haijun Wang
+Alberto Martin-Lopez
+Anthony Peruma
+Yaroslav Golubev
+Wuxia Jin
+Chengcheng Wan
+Bo Wang
+DongGyun Han
+Fiorella Zampetti
+Ezekiel Soremekun
+Chengyu Zhang
+Luciano Baresi
+Hamid Bagheri
+Yutian Tang
+Sridhar Chimalakonda
+Zhiyuan Wan
+Qiang Hu
+Foutse Khomh
+Wenhua Yang
+Gian Luca Scoccia
+Paul Gazzillo
+Jordan Samhi
+Yuhong Nan
+He Ye
+Eman Abdullah AlOmar
+Robert Dyer
+Thomas Degueule
+James C. Davis
+Muhammad Ali Gulzar
+Gias Uddin
+Ying Wang
+Jonathan Bell
+Shangwen Wang
+Claudio Di Sipio
+Juan Zhai
+José Pablo Cambronero
+Bowen Xu
+Nan Niu
+Tianyi Zhang
+Sandeep Kuttal
+Boyuan Chen
+Rahul Krishna
+Mattia Fazzini
+Thiago Ferreira
+Justyna Petke
+Masud Rahman
+Pengyu Nie
+Antonio Filieri
+Foyzul Hassan
+Shengjian Guo
+Suvodeep Majumder
+Sumon Biswas
+Yiling Lou
+Vijay Walunj
+Adriana Sejfia
+Yan Cai
+Chengnian Sun
+Wensheng Dou
+Simos Gerasimou
+Dimitris Mitropoulos
+Michaël Marcozzi
+Tim Menzies
+Jingbo Wang
+Shaohua Wang
+Ming Fan
+Eray Tüzün
+Alberto Bacchelli
+Maria Kechagia
+Darko Marinov
+Mohamed Wiem Mkaouer
+Rahul Purandare
+Gail Kaiser
+Aishwarya Sivaraman
+August Shi
+Haipeng Cai
+Naser Al Madi
+Dehai Zhao
+Raula Gaikovina Kula
+Xiaoning Du
+Lei Ma
+Patrizia Scandurra
+Qi Xin
+Akond Rahman
+Tevfik Bultan
+Raffi Khatchadourian
+David Lo
+Jan Oliver Ringert
+Xin Tan
+Gregory J. Duck
+Jacob Krüger
+Ajitha Rajan
+Lina Marsso
+Mahmoud Alfadel
+Zhi Jin
+Lola Burgueño
+Nikita Mehrotra
+Wenxi Wang
+Lina Ochoa
+Antinisca Di Marco
+Dalal Alrajeh
+Cuiyun Gao
+Alessandra Gorla
+Renáta Hodován
+Kevin Jesse
+Ziqi Zhang
