@@ -24,8 +24,8 @@ Radu Iosif
 Franjo Ivancic
 Stefan Kiefer
 Zachary Kincaid
-Barbara König
-Daniel Kröning
+Barbara K&ouml;nig
+Daniel Kr&ouml;ning
 P:Viktor Kuncak
 Rustan Leino
 P:Rupak Majumdar

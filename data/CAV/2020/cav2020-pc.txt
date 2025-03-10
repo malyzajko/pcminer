@@ -39,7 +39,7 @@ Alan Hu
 Laura Humphrey
 Franjo Ivancic
 Joxan Jaffar
-Dejan Jovanović
+Dejan Jovanovi&#263;
 Zachary Kincaid
 Laura Kovacs
 Daniel Kroening
@@ -59,7 +59,7 @@ Xiaokang Qiu
 Mukund Raghothaman
 Jan Reineke
 Kristin Rozier
-Philipp R&uuml;mmer
+Philipp R&amp;uuml;mmer
 Krishna Shankaranarayanana
 Sriram Sankaranarayanan
 Natarajan Shankar

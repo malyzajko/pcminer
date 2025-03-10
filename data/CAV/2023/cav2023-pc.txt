@@ -53,7 +53,7 @@ Matthias Heizmann
 Michael Emmi
 Mihaela Sighireanu
 Naijun Zhan
-Nikolaj Bjørner
+Nikolaj Bj&oslash;rner
 Nina Narodytska
 Pavithra Prabhakar
 Pierre Ganty
