@@ -275,6 +275,15 @@ public final class Author implements Comparable<Author> {
       result = result.replace("&#351;", "");
       result = result.replace("&#0305;", "");
       result = result.replace("&#0351;", "");
+
+      // more characters without a friendly code, normalize to character without accents
+      result = result.replace("&#268;", "C");
+      result = result.replace("&#269;", "c");
+      result = result.replace("&#263;", "c");
+      result = result.replace("&#324;", "n");
+      result = result.replace("&#328;", "n");
+      result = result.replace("&#345;", "r");
+      result = result.replace("&#350;", "S");
       if (result.contains("&#")) {
         throw new RuntimeException("ERROR: unmapped character in author name: " + authorName);
       }
