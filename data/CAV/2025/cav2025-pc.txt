@@ -3,11 +3,11 @@ P:Zvonimir Rakamaric
 Aarti Gupta
 Ahmed Bouajjani
 Aina Niemetz
-Alan Hu
+Alan J. Hu
 Alberto Griggio
 Alessandro Cimatti
 Alexander Nadel
-Alexander Summers
+Alexander J. Summers
 Alfons Laarman
 Aman Goel
 Anastasia Isychev
@@ -28,32 +28,32 @@ Bernd Finkbeiner
 Bettina K&ouml;nighofer
 Borzoo Bonakdarpour
 Burcu Kulahcioglu Ozkan
-Cesar Sanchez
+C&eacute;sar S&aacute;nchez
 Christoph Matheja
 Christoph M. Wintersteiger
-Clark Barrett
+Clark W. Barrett
 Claudia Cauli
-Corina Pasareanu
+Corina S. Pasareanu
 Cristina David
-Daniel Kr&ouml;ning
-Daniel STAN
+Daniel Kroening
+Daniel Stan
 Damien Zufferey
 Dirk Beyer
-&#272;or&#273;e &#381;ikeli&#263;
-Dorra BEN KHALIFA
+Dorde Zikelic
+Dorra Ben Khalifa
 Duc-Hiep Chu
 Elizabeth Polgreen
 Elvira Albert
 Enrico Magnago
-Erika Abraham
+Erika &Aacute;brah&aacute;m
 Eva Darulova
 Gidon Ernst
 Guy Amir
 Guy Katz
 Hadar Frenkel
-Haoze (Andrew) Wu
+Haoze Wu
 Harald Ruess
-Hari Govind Vediramana Krishnan
+Hari Govind V. K.
 Hazem Torfah
 He Zhu
 Hossein Hojjat
@@ -68,11 +68,11 @@ Joost-Pieter Katoen
 Jorge A. P&eacute;rez
 Junkil Park
 Kaushik Mallik
-Kedar Namjoshi
+Kedar S. Namjoshi
 Kshitij Bansal
 Kyungmin Bae
-Laura Kovacs
-Magnus Myreen
+Laura Kov&aacute;cs
+Magnus O. Myreen
 Marco Faella
 Marieke Huisman
 Mark Santolucito
@@ -82,8 +82,8 @@ Mirco Giacobbe
 Natasha Sharygina
 Nian-Ze Lee
 Ning Luo
-Ond&#345;ej Leng&aacute;l
-Pablo Castro
+Ondrej Leng&aacute;l
+Pablo F. Castro
 Pavithra Prabhakar
 Peter M&uuml;ller
 Philipp R&uuml;mmer
@@ -107,9 +107,9 @@ Thomas Wahl
 Tim King
 Timos Antonopoulos
 Tom van Dijk
-Tomas Vojnar
+Tom&aacute;s Vojnar
 Vijay Ganesh
-Viktor Kun&#269;ak
+Viktor Kuncak
 William Hallahan
 Wenxi Wang
 Xi (James) Zheng

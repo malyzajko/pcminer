@@ -53,7 +53,7 @@ E:Malay Ganai
 E:Neha Rungta
 E:Ondrej Lhot&aacute;k
 E:Patrick Eugster
-E:Peter Muller
+E:Peter M&uuml;ller
 E:Rastislav Bod&iacute;k
 E:Robert J. Walker
 E:Stephen M. Blackburn

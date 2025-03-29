@@ -37,7 +37,7 @@ E:Saman Amarasinghe
 E:Emery Berger
 E:Rastislav Bodik
 E:Hans-J. Boehm
-E:Carl Friedrich Bolz
+E:Carl Friedrich Bolz-Tereick
 E:Michael Bond
 E:Michael Burke
 E:Martin Burtscher

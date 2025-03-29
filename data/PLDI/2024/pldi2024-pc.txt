@@ -30,8 +30,8 @@ Andres Erbsen
 Jos&eacute; Fragoso Santos
 Vijay Ganesh
 Timon Gehr
-Klaus v. Gleissenthall
-Colin Gordon
+Klaus von Gleissenthall
+Colin S. Gordon
 Justin Gottschlich
 Neville Grech
 Michael Greenberg
@@ -81,7 +81,7 @@ Peter-Michael Osera
 Guilherme Ottoni
 Sreepathi Pai
 Jens Palsberg
-Corina Pasareanu
+Corina S. Pasareanu
 Gustavo Petri
 Lu&iacute;s Pina
 Cl&eacute;ment Pit-Claudel

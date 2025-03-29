@@ -3,12 +3,12 @@ P:Marsha Chechik
 Dalal Alrajeh
 Luis Soares Barbosa
 Ezio Bartocci
-Nikolaj Bj&oslash;rner
+Nikolaj S. Bj&oslash;rner
 Sandrine Blazy
 Borzoo Bonakdarpour
-Pablo Castro
+Pablo F. Castro
 Ana Cavalcanti
-Milan &#268;eska
+Milan Ceska
 Nancy Day
 Bernd Fischer
 Arie Gurfinkel
@@ -29,7 +29,7 @@ Christoph Matheja
 Annabelle McIver
 Claudio Menghi
 Jan Peleska
-Andre Platzer
+Andr&eacute; Platzer
 Jan-Oliver Ringert
 Baishakhi Ray
 Christina Seceleanu

@@ -1,14 +1,14 @@
 P:Andr&eacute; Platzer
-P:Kristin-Yvonne Rozier
-Erika Abraham
+P:Kristin Y. Rozier
+Erika &Aacute;brah&aacute;m
 Wolfgang Ahrendt
 Dalal Alrajeh
 Luis Soares Barbosa
 Gilles Barthe
 Dirk Beyer
-Pablo Castro
+Pablo F. Castro
 Ana Cavalcanti
-Milan &#268;eska
+Milan Ceska
 Marsha Chechik
 Alessandro Cimatti
 Alexandre Duret-Lutz
@@ -32,7 +32,7 @@ Anastasia Mavridou
 Annabelle McIver
 Claudio Menghi
 Stefan Mitsch
-Cesar Munoz
+C&eacute;sar A. Mu&ntilde;oz
 Aniello Murano
 Violet Ka I Pun
 Zvonimir Rakamaric
@@ -40,7 +40,7 @@ Philipp R&uuml;mmer
 Cristina Seceleanu
 Natasha Sharygina
 Jun Sun
-Lucas Martinelli Tabajara
+Lucas M. Tabajara
 Yong Kiam Tan
 Stefano Tonetta
 Georg Weissenbacher

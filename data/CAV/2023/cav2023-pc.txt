@@ -11,21 +11,21 @@ Alexander Nadel
 Anastasia Mavridou
 Andreas Podelski
 Ankush Desai
-Anna Slobodova
-Anthony W. Lin
+Anna Slobodov&aacute;
+Anthony Widjaja Lin
 Arie Gurfinkel
 Arjun Radhakrishna
 Aws Albarghouthi
 Azadeh Farzan
 Bernd Finkbeiner
-Bettina Koenighofer
+Bettina K&ouml;nighofer
 Bor-Yuh Evan Chang
 Burcu Kulahcioglu Ozkan
 Caterina Urban
 Cezara Dragoi
 Christoph Matheja
 Claudia Cauli
-Corina Pasareanu
+Corina S. Pasareanu
 Cristina David
 Dirk Beyer
 Elizabeth Polgreen
@@ -39,28 +39,28 @@ Isil Dillig
 Javier Esparza
 Joost-Pieter Katoen
 Juneyoung Lee
-Jyotirmoy Deshmukh
+Jyotirmoy V. Deshmukh
 Ken McMillan
-Kristin Yvonne Rozier
+Kristin Y. Rozier Rozier
 Kshitij Bansal
-Kuldeep Meel
+Kuldeep S. Meel
 Kyungmin Bae
 Marcell Vazquez-Chanlatte
 Marieke Huisman
-Markus Rabe
+Markus N. Rabe
 Marta Kwiatkowska
 Matthias Heizmann
 Michael Emmi
 Mihaela Sighireanu
 Naijun Zhan
-Nikolaj Bj&oslash;rner
+Nikolaj S. Bj&oslash;rner
 Nina Narodytska
 Pavithra Prabhakar
 Pierre Ganty
 Rupak Majumdar
 Ruzica Piskac
 Sebastian Junges
-Sebastien Bardin
+S&eacute;bastien Bardin
 Serdar Tasiran
 Sharon Shoham
 Shaz Qadeer
@@ -70,7 +70,7 @@ Subhajit Roy
 Suguman Bansal
 Swarat Chaudhuri
 Thomas Wahl
-Tomas Vojnar
+Tom&aacute;s Vojnar
 Yakir Vizel
 Yu-Fang Chen
 Zhilin Wu

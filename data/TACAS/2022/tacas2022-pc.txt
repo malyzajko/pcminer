@@ -5,8 +5,8 @@ Luca Aceto
 Timos Antonopoulos
 Saddek Bensalem
 Dirk Beyer
-Nikolaj Bj&oslash;rner
-Jasmine Blanchette
+Nikolaj S. Bj&oslash;rner
+Jasmin Blanchette
 Udi Boker
 Hana Chockler
 Rance Cleaveland
@@ -23,23 +23,23 @@ Holger Hermanns
 Falk Howar
 Swen Jacobs
 Ranjit Jhala
-Jan K&#345;et&iacute;nsk&yacute;
-Viktor Kun&#269;ak
+Jan Kret&iacute;nsk&yacute;
+Viktor Kuncak
 Kim G. Larsen
 Daniel Neider
-Dejan Ni&#269;kovi&#263;
-Corina Pasareanu
+Dejan Nickovic
+Corina S. Pasareanu
 Doron Peled
 Anna Philippou
-Kristin Yvonne Rozier
+Kristin Y. Rozier
 C&eacute;sar S&aacute;nchez
 Sven Schewe
 Natasha Sharygina
 Jan Strej&#269;ek
 Cesare Tinelli
 Stavros Tripakis
-Frits Vaandrager
-Tom&aacute;&scaron; Vojnar
+Frits W. Vaandrager
+Tom&aacute;s Vojnar
 Christoph M. Wintersteiger
 Lijun Zhang
 Lingming Zhang

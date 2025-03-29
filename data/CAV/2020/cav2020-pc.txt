@@ -13,7 +13,7 @@ Roderick Bloem
 Borzoo Bonakdarpour
 Ahmed Bouajjani
 Tevfik Bultan
-Pavol Cerny
+Pavol Cern&yacute;
 Sagar Chaki
 Swarat Chaudhuri
 Hana Chockler
@@ -21,7 +21,7 @@ Maria Christakis
 Eva Darulova
 Cristina David
 Ankush Desai
-Jyotirmoy Deshmukh
+Jyotirmoy V. Deshmukh
 Cezara Dragoi
 Kerstin Eder
 Michael Emmi
@@ -30,43 +30,43 @@ Yu Feng
 Lu Feng
 Bernd Finkbeiner
 Dana Fisman
-Daniel Fremont
+Daniel J. Fremont
 Malay Ganai
 Ganesh Gopalakrishnan
 Orna Grumberg
 Arie Gurfinkel
-Alan Hu
+Alan J. Hu
 Laura Humphrey
 Franjo Ivancic
 Joxan Jaffar
-Dejan Jovanovi&#263;
+Dejan Jovanovic
 Zachary Kincaid
-Laura Kovacs
+Laura Kov&aacute;cs
 Daniel Kroening
 Ori Lahav
 Akash Lal
-Anthony Lin
+Anthony Widjaja Lin
 Yang Liu
 Francesco Logozzo
 Ruben Martins
 Anastasia Mavridou
 Jedidiah McClurg
 Ken McMillan
-Kuldeep Meel
+Kuldeep S. Meel
 Sayan Mitra
 Ruzica Piskac
 Xiaokang Qiu
 Mukund Raghothaman
 Jan Reineke
-Kristin Rozier
-Philipp R&amp;uuml;mmer
-Krishna Shankaranarayanana
+Kristin Y. Rozier
+Philipp R&uuml;mmer
+S. Krishna
 Sriram Sankaranarayanan
 Natarajan Shankar
 Natasha Sharygina
 Sharon Shoham
 Alexandra Silva
-Anna Slobodova
+Anna Slobodov&aacute;
 Fabio Somenzi
 Fu Song
 Aditya Thakur

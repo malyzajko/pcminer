@@ -14,13 +14,13 @@ Orna Grumberg
 Holger Hermanns
 Benjamin Kiesl
 Laura Kov&aacute;cs
-Jan Kreti&#324;sky
+Jan Kret&iacute;nsk&yacute;
 Kim G. Larsen
 Wenchao Li
-Kenneth McMillan
+Kenneth L. McMillan
 Aina Niemetz
 Gethin Norman
-Corina Pasareanu
+Corina S. Pasareanu
 Nir Piterman
 Kristin Y. Rozier
 Philpp R&uuml;mmer
@@ -30,4 +30,4 @@ Jan Strej&#269;ek
 Michael Tautschnig
 Jaco van de Pol
 Tom van Dijk
-Christoph Wintersteiger
+Christoph M. Wintersteiger

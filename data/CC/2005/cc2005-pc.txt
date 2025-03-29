@@ -8,7 +8,7 @@ Thomas Gross
 Jan Heering
 Roberto Ierusalimschy
 Chandra Krintz
-Rustan Leino
+K. Rustan M. Leino
 Eduard Mehofer
 Michael Philippsen
 G. Ramalingam

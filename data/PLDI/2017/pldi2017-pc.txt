@@ -69,7 +69,7 @@ E:Adam Chlipala
 E:Maria Christakis
 E:Eva Darulova
 E:Alastair Donaldson
-E:Dana Drachsler Cohen
+E:Dana Drachsler-Cohen
 E:John Field
 E:Bryan Ford
 E:Vijay Ganesh

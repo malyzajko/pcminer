@@ -1,16 +1,16 @@
 P:John S. Fitzgerald
 P:Stefania Gnesi
 P:Constance L. Heitmeyer
-Erika Abraham
-Bernhard Aichernig
+Erika &Aacute;brah&aacute;m
+Bernhard K. Aichernig
 Myla Archer
 Gilles Barthe
-Nikolaj Bj&oslash;rner
+Nikolaj S. Bj&oslash;rner
 Michael Butler
 Andrew Butterfield
 Ana Cavalcanti
-David Clark
-Frank De Boer
+Dave Clarke
+Frank S. de Boer
 Jin Song Dong
 Javier Esparza
 John S. Fitzgerald
@@ -18,11 +18,11 @@ Vijay Ganesh
 Diego Garbervetsky
 Dimitra Giannakopoulou
 Stefania Gnesi
-Wolfgang Grieskamp Google
+Wolfgang Grieskamp
 Arie Gurfinkel
-Anne Haxthausen
-Ian Hayes
-Constance Heitmeyer
+Anne E. Haxthausen
+Ian J. Hayes
+Constance L. Heitmeyer
 Jozef Hooman
 Laura Humphrey
 Fuyuki Ishikawa
@@ -30,10 +30,10 @@ Einar Broch Johnsen
 Cliff Jones
 Joost-Pieter Katoen
 Gerwin Klein
-Laura Kovacs
+Laura Kov&aacute;cs
 Peter Gorm Larsen
 Yves Ledru
-Rustan Leino
+K. Rustan M. Leino
 Elizabeth Leonard
 Martin Leucker
 Michael Leuschel

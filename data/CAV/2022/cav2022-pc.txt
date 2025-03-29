@@ -13,22 +13,22 @@ Andreas Podelski
 Andrei Popescu
 Andrey Rybalchenko
 Anna Lukina
-Anna Slobodova
+Anna Slobodov&aacute;
 Antoine Min&eacute;
 Armin Biere
 Azalea Raad
 Bor-Yuh Evan Chang
 Caterina Urban
-Corina Pasareanu
-Dana Drachsler Cohen
+Corina S. Pasareanu
+Dana Drachsler-Cohen
 Daniel Kroening
-David Jansen
-Deepak D&rsquo;souza
+David N. Jansen
+Deepak D'Souza
 Dejan Jovanovi&#263;
 Derek Dreyer
 Elizabeth Polgreen
 Elvira Albert
-Erika Abraham
+Erika &Aacute;brah&aacute;m
 Grigory Fedyukovich
 Guy Avni
 Guy Katz
@@ -43,21 +43,21 @@ Joost-Pieter Katoen
 Josh Berdine
 Joxan Jaffar
 Kenneth L. McMillan
-Klaus v. Gleissenthall
+Klaus von Gleissenthall
 Konstantin Korovin
-Krishna Shankaranarayanan
-Kuldeep Meel
+S. Krishna
+Kuldeep S. Meel
 Laura Titolo
 Liana Hadarean
 Marieke Huisman
 Marijana Lazi&#263;
-Marijn J.H. Heule
-Markus Rabe
+Marijn J. H. Heule
+Markus N. Rabe
 Martina Seidl
 Mingsheng Ying
 Miriam Garc&iacute;a Soto
 Natasha Sharygina
-Nikolaj Bjorner
+Nikolaj S. Bj&oslash;rner
 Nir Piterman
 Oded Padon
 Parasara Sridhar Duggirala

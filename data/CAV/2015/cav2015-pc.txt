@@ -1,7 +1,7 @@
 Aws Albarghouthi
 Jade Alglave
 Domagoj Babic
-Clark Barrett
+Clark W. Barrett
 Armin Biere
 Roderick Bloem
 Ahmed Bouajjani
@@ -36,10 +36,10 @@ Marta Kwiatkowska
 Akash Lal
 Darko Marinov
 Ken McMillan
-Kedar Namjoshi
+Kedar S. Namjoshi
 David Parker
-P:Corina Pasareanu
-Andre Platzer
+P:Corina S. Pasareanu
+Andr&eacute; Platzer
 Zvonimir Rakamaric
 Grigore Rosu
 Philipp R&uuml;mmer

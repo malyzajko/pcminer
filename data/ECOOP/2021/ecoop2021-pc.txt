@@ -6,7 +6,7 @@ Camil Demetrescu
 Werner Dietl
 Jens Dietrich
 George Fourtounis
-Colin Gordon
+Colin S. Gordon
 Michael Greenberg
 David Grove
 Murali Krishna Ramanathan

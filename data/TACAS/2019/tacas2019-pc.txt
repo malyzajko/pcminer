@@ -1,4 +1,4 @@
-P:Tom&aacute;&scaron; Vojnar
+P:Tom&aacute;s Vojnar
 P:Lijun Zhang
 Parosh Aziz Abdulla
 Armin Biere
@@ -19,17 +19,17 @@ Marieke Huisman
 Radu Iosif
 Joxan Jaffar
 Stefan Kiefer
-Jan Kretinsky
+Jan Kret&iacute;nsk&yacute;
 Salvatore La Torre
-Kim Guldstrand Larsen
+Kim G. Larsen
 Anabelle McIver
 Roland Meyer
-Sebastian A. M&ouml;dersheim
+Sebastian M&ouml;dersheim
 David Parker
-Corina Pasareanu
-Sanjit Seshia
+Corina S. Pasareanu
+Sanjit A. Seshia
 Bernhard Steffen
-Jan Strej&#269;ek
+Jan Strejcek
 Zhendong Su
 Meng Sun
 Michael Tautschnig

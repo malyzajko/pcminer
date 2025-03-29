@@ -7,7 +7,7 @@ Nathalie Bertrand
 Patricia Bouyer
 Radu Calinescu
 Franck Cassez
-Pavol Cerny
+Pavol Cern&yacute;
 Krishnendu Chatterjee
 Rance Cleaveland
 Javier Esparza
@@ -24,7 +24,7 @@ Rupak Majumdar
 Tiziana Margaria
 Nicolas Markey
 Roland Meyer
-Corina Pasareanu
+Corina S. Pasareanu
 Nir Piterman
 Grigore Rosu
 Natasha Sharygina

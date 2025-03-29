@@ -10,7 +10,7 @@ Arie Gurfinkel
 Chung-Kil Hur
 Somesh Jha
 Aditya Kanade
-Laura Kovacs
+Laura Kov&aacute;cs
 Shriram Krishnamurthi
 Viktor Kuncak
 Marta Kwiatkowska
@@ -19,7 +19,7 @@ Matteo Maffei
 David Monniaux
 Madan Musuvathi
 Prakash Panangaden
-Corina Pasareanu
+Corina S. Pasareanu
 Frank Pfenning
 Frank Piessens
 Tiark Rompf

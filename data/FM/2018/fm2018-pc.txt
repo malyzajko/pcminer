@@ -1,30 +1,30 @@
 P:Bill W. Roscoe
 P:Jan Peleska
-Bernhard K. Airchernig
+Bernhard K. Aichernig
 Joerg Brauer
 Ana Cavalcanti
-Frank De Boer
+Frank S. de Boer
 John S. Fitzgerald
-Martin Fraenzle
+Martin Fr&auml;nzle
 Vijay Ganesh
 Diego Garbervetsky
-Dimitria Giannakopoulou
+Dimitra Giannakopoulou
 Thomas Gibson-Robinson
 Stefania Gnesi
 Anne E. Haxthausen
 Ian J. Hayes
-Constance Heitmeyer
+Constance L. Heitmeyer
 Jozef Hooman
 Laura Humphrey
 Fuyuki Ishikawa
-Einar Broch Johnson
+Einar Broch Johnsen
 Cliff Jones
 Joost-Pieter Katoen
 Gerwin Klein
-Laura Kovacs
+Laura Kov&aacute;cs
 Peter Gorm Larsen
 Yves Ledru
-Rustan Leino
+K. Rustan M. Leino
 Elizabeth Leonard
 Martin Leucker
 Michael Leuschel
@@ -32,11 +32,11 @@ Zhiming Liu
 Tiziana Margaria
 Mieke Massink
 Annabelle McIver
-Dominique Mery
+Dominique M&eacute;ry
 Mohammad Reza Mousavi
 Peter M&uuml;ller
-Colin O&rsquo;Halloran
-Jose Oliveira
+Colin O'Halloran
+Jos&eacute; Oliveira
 Olaf Owe
 Sam Owre
 Alexandre Petrenko

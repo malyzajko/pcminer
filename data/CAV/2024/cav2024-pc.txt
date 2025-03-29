@@ -4,32 +4,32 @@ Aditya Thakur
 Ahmed Bouajjani
 Aina Niemetz
 Akash Lal
-Alan Hu
+Alan J. Hu
 Alessandro Cimatti
 Alexander Nadel
 Alexandra Silva
-Amir Goharshady
+Amir Kafshdar Goharshady
 Anastasia Mavridou
 Andrew Reynolds
-Anna Slobodova
+Anna Slobodov&aacute;
 Anthony Widjaja Lin
 Azadeh Farzan
 B. Srivathsan
 Benjamin Kaminski
 Bernd Finkbeiner
 Bettina K&ouml;nighofer
-Bor-Yuh Evan
+Bor-Yuh Evan Chang
 Borzoo Bonakdarpour
 Caterina Urban
 Cezara Dragoi
 Christopher Hahn
 Constantin Enea
-Corina Pasareanu
-Deepak D&rsquo;Souza
-Dejan Jovanovi&acute;c
+Corina S. Pasareanu
+Deepak D'Souza
+Dejan Jovanovic
 Elizabeth Polgreen
 Elvira Albert
-Erika Abraham
+Erika &Aacute;brah&aacute;m
 Eunsuk Kang
 Florin Manea
 Gagandeep Singh
@@ -45,11 +45,11 @@ Jianwen Li
 Jingbo Wang
 Jorge A. Navas
 Ken McMillan
-Kristin Yvonne
+Kristin Y. Rozier
 Kshitij Bansal
-Kuldeep Meel
+Kuldeep S. Meel
 Kumar Madhukar
-Laura Kovacs
+Laura Kov&aacute;cs
 Liana Hadarean
 Loris D'Antoni
 Mathias Preiner
@@ -59,7 +59,7 @@ Mirco Giacobbe
 Naijun Zhan
 Natasha Sharygina
 Nathalie Sznajder
-Nikolaj Bj&amp;oslash;rner
+Nikolaj S. Bj&oslash;rner
 Ning Luo
 Oded Padon
 Orna Grumberg

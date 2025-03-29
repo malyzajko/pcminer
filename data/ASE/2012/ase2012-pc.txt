@@ -3,7 +3,7 @@ P:Tim Menzies
 P:Motoshi Saeki
 Marcelo d'Amorim  
 James H. Andrews  
-Nikolaj Bjoerner  
+Nikolaj Bj&oslash;rner
 Yuanfang Cai  
 Myra B. Cohen  
 Vittorio Cortellessa  

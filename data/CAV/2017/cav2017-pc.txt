@@ -10,7 +10,7 @@ Swarat Chaudhuri
 Wei-Ngan Chin
 Hana Chockler
 Alessandro Cimatti
-Isil Dilig
+Isil Dillig
 Dino Distefano
 Cezara Dragoi
 Michael Emmi
@@ -25,14 +25,14 @@ Franjo Ivancic
 Stefan Kiefer
 Zachary Kincaid
 Barbara K&ouml;nig
-Daniel Kr&ouml;ning
+Daniel Kroening
 P:Viktor Kuncak
-Rustan Leino
+K. Rustan M. Leino
 P:Rupak Majumdar
-Kenneth McMillan
+Kenneth L. McMillan
 Alexander Nadel
 Madhusudan Parthasarathy
-Corina Pasareanu
+Corina S. Pasareanu
 Nadia Polikarpova
 Pavithra Prabhakar
 Arjun Radhakrishna
@@ -40,7 +40,7 @@ Zvonimir Rakamaric
 Andrey Rybalchenko
 Roopsha Samanta
 Rahul Sharma
-Anna Slobodova
+Anna Slobodov&aacute;
 Ana Sokolova
 Fabio Somenzi
 Zhendong Su
@@ -49,7 +49,7 @@ Emina Torlak
 Willem Visser
 Mahesh Viswanathan
 Yakir Vizel
-Tomas Vojnar
+Tom&aacute;s Vojnar
 Thomas Wahl
 Bow-Yaw Wang
 Georg Weissenbacher

@@ -2,9 +2,9 @@ P:Swarat Chaudhuri
 P:Azadeh Farzan
 Rajeev Alur
 Christel Baier
-Clark Barrett
+Clark W. Barrett
 Roderick Bloem
-Pavol Cerny
+Pavol Cern&yacute;
 Adam Chlipala
 Alessandro Cimatti
 Loris D'Antoni
@@ -18,24 +18,24 @@ Somesh Jha
 Ranjit Jhala
 Joost-Pieter Katoen
 Zachary Kincaid
-Laura Kovacs
+Laura Kov&aacute;cs
 Viktor Kuncak
 Marta Kwiatkowska
 Shuvendu Lahiri
 Akash Lal
 Pete Manolios
-Kenneth McMillan
+Kenneth L. McMillan
 David Monniaux
-Kedar Namjoshi
+Kedar S. Namjoshi
 David Parker
-Corina Pasareneau
+Corina S. Pasareanu
 Ruzica Piskac
 Andreas Podelski
 Shaz Qadeer
 Andrey Rybalchenko
 Mooly Sagiv
 Sriram Sankaranarayanan
-Sanjit Seshia
+Sanjit A. Seshia
 Natasha Sharygina
 Sharon Shoham
 Fabio Somenzi

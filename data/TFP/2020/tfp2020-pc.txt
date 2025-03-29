@@ -8,7 +8,7 @@ Gabriele Keller
 Pieter Koopman
 Hans-Wolfgang Loidl
 Erik Meijer
-Magnus Myreen
+Magnus O. Myreen
 Zoe Paraskevopoulou
 Francois Pottier
 Fernando Rubio Diez

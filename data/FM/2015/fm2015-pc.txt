@@ -1,18 +1,18 @@
-P:Nikolaj Bj&oslash;rner
-P:Frank de Boer
+P:Nikolaj S. Bj&oslash;rner
+P:Frank S. de Boer
 Erika &Aacute;brah&aacute;m
 Bernhard K. Aichernig
 Gilles Barthe
-Nikolaj Bj&oslash;rner
-Marcello Bonsangue
+Nikolaj S. Bj&oslash;rner
+Marcello M. Bonsangue
 Michael Butler
 Andrew Butterfield
 Ana Cavalcanti
-David Clark
+Dave Clarke
 Frank S. de Boer
 Jin Song Dong
 Michael Emmi
-John Fitzgerald
+John S. Fitzgerald
 Nate Foster
 Vijay Ganesh
 Diego Garbervetsky
@@ -29,11 +29,11 @@ Gerard Holzmann
 Daniel Jackson
 Cliff Jones
 Gerwin Klein
-Laura Kovacs
+Laura Kov&aacute;cs
 Marta Kwiatkowska
 Peter Gorm Larsen
 Yves Ledru
-Rustan Leino
+K. Rustan M. Leino
 Martin Leucker
 Shaoying Liu
 Tom Maibaum
@@ -47,7 +47,7 @@ Olaf Owe
 Sam Owre
 Andrei Paskevich
 Grigore Rosu
-Kristin Yvonne Rozier
+Kristin Y. Rozier
 Sanjit A. Seshia
 Natasha Sharygina
 Viorica Sofronie-Stokkermans

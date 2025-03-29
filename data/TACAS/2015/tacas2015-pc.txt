@@ -3,7 +3,7 @@ P:Cesare Tinelli
 Erika &Aacute;brah&aacute;m
 Nathalie Bertrand
 Armin Biere
-Patricia Bouyer-Decitre
+Patricia Bouyer
 Alessandro Cimatti
 Rance Cleaveland
 Cindy Eisner
@@ -16,18 +16,18 @@ Arie Gurfinkel
 Klaus Havelund
 Holger Hermanns
 Reiner H&auml;hnle
-Daniel Kr&ouml;ning
+Daniel Kroening
 Kim G. Larsen
 Tiziana Margaria-Steffen
 Ken McMillan
 Tobias Nipkow
 David Parker
-Corina Pasareanu
+Corina S. Pasareanu
 Ruzica Piskac
 Jean-Fran&ccedil;ois Raskin
-Philip R&uuml;mmer
+Philipp R&uuml;mmer
 Sriram Sankaranarayanan
-Scott Smolka
+Scott A. Smolka
 Bernhard Steffen
 Helmut Veith
 Willem Visser

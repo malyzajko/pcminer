@@ -18,7 +18,7 @@ Holger Hermanns
 Falk Howar
 Marieke Huisman
 Laura Kov&aacute;cs
-Jan Kretinsky
+Jan Kret&iacute;nsk&yacute;
 Kim G. Larsen
 Salvatore La Torre
 Axel Legay
@@ -27,15 +27,15 @@ Rupak Majumdar
 Tiziana Margaria
 Rosemary Monahan
 David Parker
-Corina Pasareanu
+Corina S. Pasareanu
 Alexander K. Petrenko
 Zvonimir Rakamaric
-Kristin Yvonne Rozier
+Kristin Y. Rozier Rozier
 Natasha Sharygina
 Stephen F. Siegel
 Stavros Tripakis
-Frits Vaandrager
-Tom&aacute;&scaron; Vojnar
+Frits W. Vaandrager
+Tom&aacute;s Vojnar
 Heike Wehrheim
 Thomas Wies
 Damien Zufferey

@@ -17,7 +17,7 @@ Christos Dimoulas
 Chung-Kil Hur
 Cindy Rubio-Gonz&aacute;lez
 Cyrus Omar
-Dana Drachsler Cohen
+Dana Drachsler-Cohen
 Daniel W. Barowy
 David Van Horn
 Dimitris Mitropoulos
@@ -59,7 +59,7 @@ Leonidas Lampropoulos
 Limin Jia
 Loris D'Antoni
 Louis-Noel Pouchet
-Magnus Myreen
+Magnus O. Myreen
 Maryam Mehri Dehnavi
 Matthias Hauswirth
 Michael Bond

@@ -1,4 +1,4 @@
-C:Colin Gordon 
+C:Colin S. Gordon 
 C:Jan Vitek 
 Arash Alavi
 Cheng Cai

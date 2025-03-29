@@ -1,6 +1,6 @@
 P:Annabelle McIver
-P:Maurice ter Beek
-Bernhard Aichernig
+P:Maurice H. ter Beek
+Bernhard K. Aichernig
 Elvira Albert
 Mar&iacute;a Alpuente
 Dalal Alrajeh
@@ -11,8 +11,8 @@ Lu&iacute;s Barbosa
 Gilles Barthe
 Marcello Bersani
 Gustavo Betarte
-Nikolaj Bj&oslash;rner
-Frank de Boer
+Nikolaj S. Bj&oslash;rner
+Frank S. de Boer
 Sergiy Bogomolov
 Julien Brunel
 N&eacute;stor Cata&ntilde;o
@@ -33,9 +33,9 @@ Silvia Ghilezan
 Stefania Gnesi
 Osman Hasan
 Klaus Havelund
-Anne Haxthausen
-Ian Hayes
-Constance Heitmeyer
+Anne E. Haxthausen
+Ian J. Hayes
+Constance L. Heitmeyer
 Jane Hillston
 Thai Son Hoang
 Zhenjiang Hu
@@ -47,7 +47,7 @@ Ali Jaoua
 Einar Broch Johnsen
 Joost-Pieter Katoen
 Laura Kov&aacute;cs
-Alberto Lluch Lafuente
+Alberto Lluch-Lafuente
 Axel Legay
 Gabriele Lenzini
 Yang Liu
@@ -58,12 +58,12 @@ Hern&aacute;n Melgratti
 Sun Meng
 Rosemary Monahan
 Olfa Mosbahi
-Mohammad Mousavi
+Mohammad Reza Mousavi
 C&eacute;sar Mu&ntilde;oz
 Dominique M&eacute;ry
 Tim Nelson
 Gethin Norman
-Colin O&rsquo;Halloran
+Colin O'Halloran
 Federico Olmedo
 Gordon Pace
 Jan Peleska
@@ -82,7 +82,7 @@ Daniel Schwartz-Narbonne
 Natasha Sharygina
 Nikolay Shilov
 Ana Sokolova
-Marielle Stoelinga
+Mari&euml;lle Stoelinga
 Jun Sun
 Helen Treharne
 Elena Troubitsyna

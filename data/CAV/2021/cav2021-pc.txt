@@ -1,7 +1,7 @@
-Erika Abraham
+Erika &Aacute;brah&aacute;m
 Elvira Albert
 Christel Baier
-Clark Barrett
+Clark W. Barrett
 Ezio Bartocci
 Josh Berdine
 Armin Biere
@@ -29,23 +29,23 @@ Arie Gurfinkel
 Ichiro Hasuo
 Marieke Huisman
 David N. Jansen
-Jean- Baptiste Jeannin
+Jean-Baptiste Jeannin
 Ranjit Jhala
 Rajeev Joshi
 Temesghen Kahsai
 Benjamin Lucien Kaminski
-Joost- Pieter Katoen
+Joost-Pieter Katoen
 Guy Katz
-Laura Kovacs
+Laura Kov&aacute;cs
 Orna Kupferman
 Marta Kwiatkowska
 Ori Lahav
 Shuvendu Lahiri
 Akash Lal
-Kim Larsen
+Kim G. Larsen
 Marijana Lazic
 Owolabi Legunsen
-P:Rustan Leino
+P:K. Rustan M. Leino
 Rupak Majumdar
 Ruben Martins
 Ken McMillan
@@ -54,9 +54,9 @@ Ruzica Piskac
 Sylvie Putot
 Markus N. Rabe
 Talia Ringer
-Kristin Yvonne Rozier
-Philipp Ruemmer
-Krishna S
+Kristin Y. Rozier Rozier
+Philipp R&uuml;mmer
+S. Krishna
 Roopsha Samanta
 Sanjit A. Seshia
 Natarajan Shankar

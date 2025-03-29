@@ -2,14 +2,14 @@ P:Hana Chockler
 P:Georg Weissenbacher
 Aws Albarghouthi
 Christel Baier
-Clark Barrett
+Clark W. Barrett
 Ezio Bartocci
 Dirk Beyer
 Per Bjesse
-Jasmin Christian Blanchette
+Jasmin Blanchette
 Roderick Bloem
 Ahmed Bouajjani
-Pavol Cerny
+Pavol Cern&yacute;
 Rohit Chadha
 Swarat Chaudhuri
 Wei-Ngan Chin
@@ -17,7 +17,7 @@ Alessandro Cimatti
 Loris D'Antoni
 Vijay D'Silva
 Cristina David
-Jyotirmoy Deshmukh
+Jyotirmoy V. Deshmukh
 Isil Dillig
 Cezara Dragoi
 Kerstin Eder
@@ -41,7 +41,7 @@ Ranjit Jhala
 Barbara Jobstmann
 Stefan Kiefer
 Zachary Kincaid
-Laura Kovacs
+Laura Kov&aacute;cs
 Viktor Kuncak
 Orna Kupferman
 Shuvendu Lahiri
@@ -49,9 +49,9 @@ Rupak Majumdar
 Ken McMillan
 Alexander Nadel
 Mayur Naik
-Kedar Namjoshi
+Kedar S. Namjoshi
 Dejan Nickovic
-Corina Pasareanu
+Corina S. Pasareanu
 Nir Piterman
 Pavithra Prabhakar
 Mitra Purandare
@@ -66,13 +66,13 @@ Koushik Sen
 Sanjit A. Seshia
 Natasha Sharygina
 Sharon Shoham
-Anna Slobodova
+Anna Slobodov&aacute;
 Armando Solar-Lezama
 Ofer Strichman
 Serdar Tasiran
 Caterina Urban
 Yakir Vizel
-Tomas Vojnar
+Tom&aacute;s Vojnar
 Thomas Wahl
 Bow-Yaw Wang
 Thomas Wies

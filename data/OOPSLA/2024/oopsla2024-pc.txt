@@ -13,7 +13,7 @@ Filip Niksic
 Kenji Maillard
 Wei Le
 Tiark Rompf
-Colin Gordon
+Colin S. Gordon
 Xiaokang Qiu
 Sreepathi Pai
 Swarnendu Biswas
@@ -42,7 +42,7 @@ Cyrus Omar
 Youyou Cong
 Emma S&ouml;derberg
 Fredrik Kjolstad
-Dana Drachsler Cohen
+Dana Drachsler-Cohen
 Guido Salvaneschi
 Justin Hsu
 Rahul Gopinath
@@ -70,7 +70,7 @@ Shaz Qadeer
 Saman Amarasinghe
 Ana Milanova
 Aleksandar Nanevski
-Corina Pasarenau
+Corina S. Pasareanu
 David Pearce
 Wei Zhang 
 Fei He

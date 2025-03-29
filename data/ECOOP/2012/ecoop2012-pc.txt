@@ -18,7 +18,7 @@ Robert Hirschfeld
 Atsushi Igarashi
 Bart Jacobs
 Richard E. Jones
-Rustan Leino
+K. Rustan M. Leino
 Nick Mitchell
 Robert O'Callahan
 Jens Palsberg

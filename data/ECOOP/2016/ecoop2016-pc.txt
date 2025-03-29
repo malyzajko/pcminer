@@ -31,7 +31,7 @@ Mandana Vaziri
 Tobias Wrigstad
 Harry Xu
 E:Sven Apel
-E:Carl Friedrich Bolz
+E:Carl Friedrich Bolz-Tereick
 E:Mike Dodds
 E:Sophia Drossopoulou
 E:Martin Erwig
@@ -39,7 +39,7 @@ E:Colin S. Gordon
 E:Stefan Hanenberg
 E:Ben Hardekopf
 E:Reiner H&auml;hnle
-E:Atsushi Igarishi
+E:Atsushi Igarashi
 E:Limin Jia
 E:Tomas Kalibera
 E:Matthias Keil

@@ -1,7 +1,7 @@
 P:Zachary Tatlock
 Bor-Yuh Evan Chang
 Loris D'Antoni
-Dana Drachsler Cohen
+Dana Drachsler-Cohen
 Arjun Guha
 James Larus
 Sam Lindley
@@ -46,7 +46,7 @@ Harrison Goldstein
 Anitha Gollamudi
 Laure Gonnord
 Ganesh Gopalakrishnan
-Colin Gordon
+Colin S. Gordon
 Ben Greenman
 Dan Grossman
 Samuel Gruetter

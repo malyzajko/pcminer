@@ -5,7 +5,7 @@ Haniel Barbosa
 Ezio Bartocci
 Dirk Beyer
 Armin Biere
-Nikolaj Bj&oslash;rner
+Nikolaj S. Bj&oslash;rner
 Roderick Bloem
 Ahmed Bouajjani
 Hana Chockler
@@ -19,27 +19,27 @@ Martin Fr&auml;nzle
 Khalil Ghorbal
 Laure Gonnord
 Orna Grumberg
-Kim Guldstrand Larsen
+Kim G. Larsen
 Arie Gurfinkel
 Ranjit Jhala
-Laura Kovacs
+Laura Kov&aacute;cs
 Alexander Kulikov
 Bettina K&ouml;nighofer
 Wenchao Li
 Sergio Mover
 Peter M&uuml;ller
-Kedar Namjoshi
+Kedar S. Namjoshi
 Aina Niemetz
-Corina Pasareanu
+Corina S. Pasareanu
 Nir Piterman
 Philipp R&uuml;mmer
-Krishna S.
-Cesar Sanchez
+S. Krishna
+C&eacute;sar S&aacute;nchez
 Sharon Shoham
 Fabio Somenzi
 Cesare Tinelli
 Stavros Tripakis
-Frits Vaandrager
+Frits W. Vaandrager
 Yakir Vizel
 Tomas Vojnar
 Naijun Zhan

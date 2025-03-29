@@ -1,5 +1,5 @@
 P:Marieke Huisman
-P:Corina Pasareanu
+P:Corina S. Pasareanu
 P:Naijun Zhan
 Bernhard K. Aichernig
 Christel Baier
@@ -18,7 +18,7 @@ Peter H&ouml;fner
 Marieke Huisman
 Nils Jansen
 Einar Broch Johnsen
-Jan Kofro&#328;
+Jan Kofron
 Dorel Lucanu
 Radu Mateescu
 Anastasia Mavridou
@@ -26,10 +26,10 @@ Annabelle McIver
 Rosemary Monahan
 Nina Narodytska
 David Naumann
-Jose Oliveira
+Jos&eacute; Oliveira
 Jun Pang
 Dave Parker
-Corina Pasareanu
+Corina S. Pasareanu
 Gustavo Petri
 Akshay Rajhans
 Tamara Rezk

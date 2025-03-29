@@ -13,15 +13,15 @@ Shumo Chu
 Albert Cohen
 Brian Demsky
 Mike Dodds
-Dana Drachsler Cohen
+Dana Drachsler-Cohen
 Constantin Enea
 Yu Feng
 Kostas Ferles
 Nate Foster
 Nick Giannarakis
-Klaus v. Gleissenthall
+Klaus von Gleissenthall
 Laure Gonnord
-Colin Gordon
+Colin S. Gordon
 Justin Gottschlich
 Neville Grech
 Vinod Grover

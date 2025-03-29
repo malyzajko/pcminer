@@ -9,7 +9,7 @@ Swarat Chaudhuri
 Alessandro Cimatti
 Rance Cleaveland
 Byron Cook
-Cezara Dr&#259;goi
+Cezara Dragoi
 Cindy Eisner
 Martin Fr&auml;nzle
 Sicun Gao
@@ -19,8 +19,8 @@ Klaus Havelund
 Holger Hermanns
 Falk Howar
 Thomas Jensen
-Jan K&#345;et&iacute;nsk&yacute;
-Kim Guldstrand Larsen
+Jan Kret&iacute;nsk&yacute;
+Kim G. Larsen
 Salvatore La Torre
 P. Madhusudan
 Pasquale Malacaria
@@ -29,7 +29,7 @@ Leonardo de Moura
 Dejan Nickovic
 David Parker
 Charles Pecheur
-Kristin Rozier
+Kristin Y. Rozier
 Natasha Sharygina
 Bernhard Steffen
 Stavros Tripakis

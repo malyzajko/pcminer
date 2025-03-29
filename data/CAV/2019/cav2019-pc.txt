@@ -5,7 +5,7 @@ Oded Padon
 Nir Piterman
 Dejan Jovanovic
 Burcu Kulahcioglu Ozkan
-Pavol Cerny
+Pavol Cern&yacute;
 Laure Gonnord
 Yakir Vizel
 Shachar Itzhaky
@@ -13,7 +13,7 @@ Cesare Tinelli
 Sylvie Putot
 Marcelo Sousa
 Hakjoo Oh
-Nikolaj Bjorner
+Nikolaj S. Bj&oslash;rner
 Grigory Fedyukovich
 Caterina Urban
 Ruben Martins
@@ -39,7 +39,7 @@ Eran Yahav
 Rajeev Alur
 Patrice Godefroid
 Marta Kwiatkowska
-Corina Pasareanu
+Corina S. Pasareanu
 Yu Feng
 Koushik Sen
 Dana Fisman
@@ -64,18 +64,18 @@ Rahul Sharma
 Stephen Magill
 Ranjit Jhala
 Natarajan Shankar
-Anna Slobodova
+Anna Slobodov&aacute;
 Aws Albarghouthi
 Cezara Dragoi
 Hongseok Yang
-Peter Muller
+Peter M&uuml;ller
 Rajeev Joshi
 Sanjit A. Seshia
-Laura Kovacs
+Laura Kov&aacute;cs
 Vijay Murali
 Azadeh Farzan
 Jade Alglave
 Per Bjesse
-Dana Drachsler Cohen
+Dana Drachsler-Cohen
 Eva Darulova
 Klaus Havelund

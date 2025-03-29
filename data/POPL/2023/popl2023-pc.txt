@@ -31,7 +31,7 @@ Ralf Jung
 Ohad Kammar
 Joost-Pieter Katoen
 Ekaterina Komendantskaya
-Laura Kovacs
+Laura Kov&aacute;cs
 Robbert Krebbers
 Lindsey Kuper
 Akash Lal

@@ -2,12 +2,12 @@ P:Bernd Finkbeiner
 P:Laura Kov&aacute;cs
 Alessandro Abate
 Erika &Aacute;brah&aacute;m
-S Akshay
+S. Akshay
 Elvira Albert
 Leonardo Alt
 Suguman Bansal
-Nikolaj Bj&oslash;rner
-Ahmed Boujanni
+Nikolaj S. Bj&oslash;rner
+Ahmed Bouajjani
 Claudia Cauli
 Rance Cleaveland
 Mila Dalla Preda
@@ -19,7 +19,7 @@ Carlo Furia
 Alberto Griggio
 Arie Gurfinkel
 Holger Hermanns
-Marijn Heule
+Marijn J. H. Heule
 Hossein Hojjat
 Nils Jansen
 Sebastian Junges
@@ -29,14 +29,14 @@ Guy Katz
 Laura Kov&aacute;cs
 Gergely Kovasznai
 Tamas Kozsik
-Anthony Lin
+Anthony Widjaja Lin
 Dorel Lucanu
 Filip Maric
 Laura Nenzi
 Aina Niemetz
 Elizabeth Polgreen
-Kristin Rozier
-Cesar Sanchez
+Kristin Y. Rozier
+C&eacute;sar S&aacute;nchez
 Mark Santolucito
 Anne-Kathrin Schmuck
 Sharon Shoham
@@ -45,7 +45,7 @@ Martin Suda
 Silvia Lizeth Tapia Tarifa
 Caterina Urban
 Yakir Vizel
-Tomas Vojnar
+Tom&aacute;s Vojnar
 Georg Weissenbacher
 Sarah Winkler
 Ningning Xie

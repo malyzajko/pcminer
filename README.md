@@ -86,6 +86,7 @@ Adding a conference involves the following steps:
    See http://html-color-codes.info/color-names/ for a list of colors.    
    
 3. inside of this new conference directory, create a subdirectory for each year for 
+
    which data is available (e.g., "2000", "2001", "2002", etc.)
    
 4. inside each year subdirectory, you need to provide two files

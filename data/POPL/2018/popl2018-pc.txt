@@ -5,7 +5,7 @@ Nadav Amit
 Gilles Barthe 
 Mark Batty 
 Lars Birkedal 
-Pavol Cerny 
+Pavol Cern&yacute;
 James Cheney 
 Koen Claessen 
 William Cook 
@@ -18,7 +18,7 @@ Constantin Enea
 Azadeh Farzan 
 Xinyu Feng 
 Atsushi Igarashi 
-Laura Kovacs 
+Laura Kov&aacute;cs
 Neelakantan R. Krishnaswami
 Sorin Lerner 
 Xavier Leroy 

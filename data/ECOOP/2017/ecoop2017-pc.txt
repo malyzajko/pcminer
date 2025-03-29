@@ -20,7 +20,7 @@ Anders M&oslash;ller
 Bruno C. d. S. Oliveira
 Klaus Ostermann
 Matthew J. Parkinson
-Corina Pasareanu
+Corina S. Pasareanu
 Tiark Rompf
 Grigore Rosu
 Yannis Smaragdakis
