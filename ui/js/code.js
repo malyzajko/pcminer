@@ -409,6 +409,7 @@ var pcminer = (function () {
     clip = $("#basic-modal-content"); //REJ
     clip.empty();
     clip.append("<p>");
+    clip.append("format: name, committees, publications, top keywords<br />");
     for (var i = 0; i < list.length; i++) {
       var x = list[i];
       if (nameFilter == "" || x.author.indexOf(nameFilter) == 0) {
@@ -424,6 +425,23 @@ var pcminer = (function () {
                 " "
             );
           }
+          // also append publication info
+          clip.append(",");
+          for (var j = 0; j < x.publications.length; j++) {
+            clip.append(
+              x.publications[j].conference.series +
+                " " +
+                x.publications[j].conference.year +
+                " "
+            );
+          }
+
+          // keywords info
+          clip.append(",");
+          var words = gatherWords(x).sort((a, b) => b.weight - a.weight);
+          var topWords = words.slice(0, 15).map(item => item.text).join(" ");
+          clip.append(topWords);
+
           clip.append("<br />");
         }
       }
